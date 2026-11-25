@@ -1,0 +1,6 @@
+.venv_retail/
+.idea/
+__pycache__/
+*.pyc
+results/NumPy_Transformed_Data.csv
+results/Online_Retail_Analytical_Dataset.csv

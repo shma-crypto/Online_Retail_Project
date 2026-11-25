@@ -1,0 +1,1337 @@
+﻿InvoiceNo,StockCode,Description,Quantity,InvoiceDate,UnitPrice,CustomerID,Country,IsCancelled,IsNegativeQuantity,IsZeroPrice,IsNegativePrice,OperationType
+536589,21777,RECIPE BOX WITH METAL HEART,-10,2010-12-01 16:50:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+536764,84952C,MIRROR LOVE BIRD T-LIGHT HOLDER,-38,2010-12-02 14:42:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+536996,22712,CARD DOLLY GIRL ,-20,2010-12-03 15:30:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+536997,22028,PENNY FARTHING BIRTHDAY CARD,-20,2010-12-03 15:30:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+536998,85067,CREAM SWEETHEART WALL CABINET,-6,2010-12-03 15:30:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+537000,21414,SCALLOP SHELL SOAP DISH,-22,2010-12-03 15:32:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+537001,21653,,-6,2010-12-03 15:33:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+537003,85126,LARGE ROUND CUTGLASS CANDLESTICK,-2,2010-12-03 15:33:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+537004,21814,HEART T-LIGHT HOLDER ,-30,2010-12-03 15:34:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+537005,21692,SILVER LATTICE VANILLA CANDLE POT,-70,2010-12-03 15:35:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+537006,21648,ASSORTED TUTTI FRUTTI SMALL PURSE,-130,2010-12-03 15:36:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+537007,21172,PARTY METAL SIGN ,-80,2010-12-03 15:36:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+537008,21161,KEEP OUT BOYS DOOR HANGER ,-120,2010-12-03 15:37:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+537009,84534B,FAIRY CAKE NOTEBOOK A5 SIZE,-80,2010-12-03 15:38:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+537010,22162,HEART GARLAND RUSTIC PADDED,-40,2010-12-03 15:38:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+537011,22139,RETROSPOT TEA SET CERAMIC 11 PC ,-5,2010-12-03 15:38:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+537012,21535,RED RETROSPOT SMALL MILK JUG,-12,2010-12-03 15:39:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+537013,35965,FOLKART HEART NAPKIN RINGS,-25,2010-12-03 15:40:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+537014,21040,MODERN VINTAGE COTTON SHOPPING BAG,-20,2010-12-03 15:40:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+537015,37464,ROBOT MUG IN DISPLAY BOX,-14,2010-12-03 15:41:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+537016,21836,GINGHAM OVEN GLOVE RED HEART ,-15,2010-12-03 15:41:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+537017,47556B,TEA TIME TEA TOWELS ,-69,2010-12-03 15:41:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+537018,84562A,PINK/WHITE RIBBED MELAMINE JUG,-3,2010-12-03 15:42:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+537019,37474,SET/4 2 TONE EGG SHAPE MIXING BOWLS,-15,2010-12-03 15:43:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+537020,21807,WHITE CHRISTMAS STAR DECORATION,-30,2010-12-03 15:43:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+537021,21011,GLITTER SNOW PEAR TREE DECORATION,-20,2010-12-03 15:43:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+537027,18098C,PORCELAIN BUTTERFLY OIL BURNER,-140,2010-12-03 16:36:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+537028,21696,SMALL SILVER TRELLIS CANDLEPOT,-320,2010-12-03 16:36:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+537029,37476,CONDIMENT TRAY 4 BOWLS AND 4 SPOONS,-6,2010-12-03 16:37:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+537032,21275,?,-30,2010-12-03 16:50:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+537363,84569B,PACK 3 FIRE ENGINE/CAR PATCHES,-20,2010-12-06 12:35:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+537364,21027,NINJA RABBIT PINK,-70,2010-12-06 12:36:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+537401,84898F,YELLOW FLOWERS FELT HANDBAG KIT,-24,2010-12-06 14:37:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+537425,84968F,check,-20,2010-12-06 15:35:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+537426,84968E,check,-35,2010-12-06 15:36:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+537427,84968B,SET OF 16 VINTAGE IVORY CUTLERY,-21,2010-12-06 15:37:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+537432,35833G,damages,-43,2010-12-06 16:10:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+537449,21054,NURSE'S BAG SOFT TOY,-30,2010-12-07 09:26:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+537450,20684,STRAWBERRY DREAM CHILDS UMBRELLA,-19,2010-12-07 09:26:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+537451,84881,BLUE WIRE SPIRAL CANDLE HOLDER,-11,2010-12-07 09:27:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+537452,20941,FROG CANDLE,-24,2010-12-07 09:28:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+537453,21248,DOOR HANGER  MUM + DADS ROOM,-18,2010-12-07 09:28:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+537454,21349,IVY HEART WREATH,-44,2010-12-07 09:30:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+537455,22155,STAR DECORATION RUSTIC,-70,2010-12-07 09:31:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+537466,21488,RED WHITE SCARF  HOT WATER BOTTLE,-50,2010-12-07 10:33:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+537687,84840,SWEETHEART CARRY-ALL BASKET,-9,2010-12-08 10:26:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+537870,21486,PINK HEART DOTS HOT WATER BOTTLE,-77,2010-12-08 17:08:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+537999,22034,ROBIN CHRISTMAS CARD,-223,2010-12-09 11:44:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+538042,21763,VINTAGE WOODEN BAR STOOL,-4,2010-12-09 13:10:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+538043,22833,HALL CABINET WITH 3 DRAWERS,-1,2010-12-09 13:10:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+538046,85008,SET OF 3 CONEY ISLAND OVAL BOXES,-15,2010-12-09 13:12:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+538047,21429,RED GINGHAM ROSE JEWELLERY BOX,-70,2010-12-09 13:13:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+538054,85167B,BLACK GRAND BAROQUE PHOTO FRAME,-24,2010-12-09 13:34:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+538055,22454,MEASURING TAPE BABUSHKA RED,-20,2010-12-09 13:34:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+538058,20966,SANDWICH BATH SPONGE,-150,2010-12-09 13:38:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+538061,21801,CHRISTMAS TREE DECORATION WITH BELL,-38,2010-12-09 13:39:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+538072,22423,faulty,-13,2010-12-09 14:10:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+538074,21743,STAR PORTABLE TABLE LIGHT ,-80,2010-12-09 14:11:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+538090,20956,?,-723,2010-12-09 14:48:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+538092,37467,PIG MUG IN TWO COLOUR DESIGNS,-177,2010-12-09 14:49:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+538158,20892,SET/3 TALL GLASS CANDLE HOLDER PINK,-32,2010-12-09 17:17:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+538159,21324,HANGING MEDINA LANTERN SMALL,-18,2010-12-09 17:17:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+538161,46000S,Dotcom sales,-100,2010-12-09 17:25:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+538162,46000M,Dotcom sales,-100,2010-12-09 17:25:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+538173,22353,LUNCH BOX WITH CUTLERY FAIRY CAKES ,-28,2010-12-10 09:35:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+538241,21431,,-21,2010-12-10 12:00:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+538247,79067,CORONA MEXICAN TRAY,-145,2010-12-10 12:09:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+538837,85135B,BLUE DRAGONFLY HELICOPTER,-40,2010-12-14 13:10:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+538906,21895,POTTING SHED SOW 'N' GROW SET,-5,2010-12-15 10:31:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+539980,35001W,HAND OPEN SHAPE DECO.WHITE,-36,2010-12-23 14:34:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+539994,22830,UTILTY CABINET WITH HOOKS,-1,2011-01-04 10:09:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+539995,85064,CREAM SWEETHEART LETTER RACK,-12,2011-01-04 10:12:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+539996,21784,SHOE SHINE BOX ,-10,2011-01-04 10:12:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+539999,20892,SET/3 TALL GLASS CANDLE HOLDER PINK,-1,2011-01-04 10:16:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+540000,84499,BLACK FLOWER CANDLE PLATE,-9,2011-01-04 10:17:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+540008,85230F,JASMINE VOTIVE CANDLE,-48,2011-01-04 11:10:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+540009,22158,3 HEARTS HANGING DECORATION RUSTIC,-120,2011-01-04 11:10:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+540010,22501,reverse 21/5/10 adjustment,-100,2011-01-04 11:13:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+540012,22502,reverse 21/5/10 adjustment,-100,2011-01-04 11:14:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+540100,22837,?,-106,2011-01-04 16:53:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+540119,22865,HAND WARMER OWL DESIGN,-60,2011-01-05 10:07:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+540241,35957,SMALLFOLKART BAUBLE CHRISTMAS DEC,-939,2011-01-05 15:17:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+540252,22198,LARGE POPCORN HOLDER ,-100,2011-01-05 16:25:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+540272,90096,NECKLACE+BRACELET SET BLUE BLOSSOM,-54,2011-01-06 11:57:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+540369,47591D,PINK FAIRY CAKE CHILDRENS APRON,-201,2011-01-06 16:20:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+540549,21587,COSY HOUR GIANT TUBE MATCHES,-53,2011-01-10 09:07:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+540558,21258,?,-29,2011-01-10 10:04:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+540560,21589,,-14,2011-01-10 10:08:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+540564,22617,"mouldy, thrown away.",-2600,2011-01-10 10:36:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+540637,21275,ZINC TOP  2 DOOR WOODEN SHELF ,-5,2011-01-10 12:13:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+540638,72038P,damages,-990,2011-01-10 12:14:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+540650,85124C,GREEN JUICY FRUIT PHOTO FRAME,-8,2011-01-10 14:59:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+540651,82599,?,-290,2011-01-10 15:00:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+540678,21667,GLASS CAKE COVER AND PLATE,-1,2011-01-10 16:21:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+540679,21667,GLASS CAKE COVER AND PLATE,-1,2011-01-10 16:21:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+540683,84546,,-45,2011-01-10 17:00:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+540684,35271S,GOLD PRINT PAPER BAG,-13,2011-01-10 17:01:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+540778,84029E,RED WOOLLY HOTTIE WHITE HEART.,-50,2011-01-11 11:15:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+540978,84050,counted,-310,2011-01-12 15:04:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+540987,17011A,,-61,2011-01-12 16:15:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+541000,21632,VINTAGE PINK DECORATIVE PARASOL,-41,2011-01-13 10:11:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+541482,22837,HOT WATER BOTTLE BABUSHKA ,-35,2011-01-18 12:32:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+541487,85118,HEART T-LIGHT HOLDER,-35,2011-01-18 13:19:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+541519,21429,RED GINGHAM ROSE JEWELLERY BOX,-15,2011-01-19 09:11:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+541600,22866,HAND WARMER SCOTTY DOG DESIGN,-64,2011-01-19 16:48:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+541601,22632,HAND WARMER RED RETROSPOT,-84,2011-01-19 16:48:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+541685,22351,Given away,-1400,2011-01-20 15:41:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+541687,46000S,Dotcom,-300,2011-01-20 15:42:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+541702,22451,SILK PURSE BABUSHKA RED,-30,2011-01-21 09:44:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+541802,20854,BLUE PATCH PURSE PINK HEART,-80,2011-01-21 14:45:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+541882,48185,?,-57,2011-01-24 10:54:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+541967,84823,DANISH ROSE FOLDING CHAIR,-3,2011-01-24 13:35:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+542225,85096,label mix up,-59,2011-01-26 13:10:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+542361,85161,samples/damages,-20,2011-01-27 12:47:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+542362,20699,MOUSEY LONG LEGS SOFT TOY,-16,2011-01-27 12:49:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+542365,21897,POTTING SHED CANDLE CITRONELLA,-22,2011-01-27 12:51:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+542367,82583,HOT BATHS METAL SIGN,-30,2011-01-27 12:57:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+542368,85188B,PINK METAL SWINGING BUNNY,-70,2011-01-27 12:59:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+542379,35922,EASTER BUNNY WREATH,-30,2011-01-27 13:58:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+542380,84917,WHITE HAND TOWEL WITH BUTTERFLY,-50,2011-01-27 13:59:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+542391,84455,,-31,2011-01-27 14:54:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+542392,84227,HEN HOUSE W CHICK IN NEST,-2,2011-01-27 14:56:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+542396,22146,EASTER CRAFT IVY WREATH WITH CHICK,-4,2011-01-27 15:12:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+542414,84967A,,-2,2011-01-27 17:15:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+542415,84967B,,-1,2011-01-27 17:15:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+542417,84966B,,-11,2011-01-27 17:38:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+542418,84966A,,-17,2011-01-27 17:39:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+542518,22184,CAKE STAND VICTORIAN FILIGREE LARGE,-13,2011-01-28 12:17:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+542529,DCGS0055,,-1,2011-01-28 13:08:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+542531,DCGS0072,,-1,2011-01-28 13:08:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+542532,DCGS0074,,-1,2011-01-28 13:09:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+542544,17165D,ASS COL LARGE SAND FROG P'WEIGHT,-10,2011-01-28 14:43:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+542546,20734,SILVER MINI TAPE MEASURE ,-1,2011-01-28 14:44:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+542547,20864,,-1,2011-01-28 14:45:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+542548,20892,SET/3 TALL GLASS CANDLE HOLDER PINK,-1,2011-01-28 14:45:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+542550,20910,VINTAGE PHOTO ALBUM PARIS DAYS,-1,2011-01-28 14:45:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+542551,21282,,-1,2011-01-28 14:46:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+542552,21645,ASSORTED TUTTI FRUTTI ROUND BOX,-1,2011-01-28 14:47:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+542553,21805,,-1,2011-01-28 14:49:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+542554,21836,GINGHAM OVEN GLOVE RED HEART ,-1,2011-01-28 14:49:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+542555,21841,BABY MOUSE RED GINGHAM DRESS,-1,2011-01-28 14:50:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+542556,22143,,-1,2011-01-28 14:50:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+542557,22765,NEWSPAPER STAND,-1,2011-01-28 14:50:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+542558,35644,,-1,2011-01-28 14:51:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+542559,35991,,-1,2011-01-28 14:51:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+542560,47579,TEA TIME BREAKFAST BASKET,-1,2011-01-28 14:51:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+542561,84424A,,-1,2011-01-28 14:52:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+542562,84499,BLACK FLOWER CANDLE PLATE,-1,2011-01-28 14:52:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+542563,84509F,,-1,2011-01-28 14:52:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+542564,84526,,-1,2011-01-28 14:52:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+542565,84664,,-1,2011-01-28 14:52:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+542566,84964B,,-1,2011-01-28 14:53:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+542567,84975,HEART SHAPED MIRROR,-1,2011-01-28 14:53:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+542569,85028L,FRENCH CHATEAU LARGE FRUIT BOWL ,-1,2011-01-28 14:53:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+542570,85028S,FRENCH CHATEAU SMALL FRUITBOWL,-1,2011-01-28 14:53:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+542571,85031C,CURIOUS IMAGES SCRAP BOOK SET,-1,2011-01-28 14:54:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+542572,85064,CREAM SWEETHEART LETTER RACK,-1,2011-01-28 14:54:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+542573,85110,,-1,2011-01-28 14:55:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+542574,85119,WATERING CAN SINGLE HOOK PISTACHIO,-1,2011-01-28 14:55:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+542575,85126,LARGE ROUND CUTGLASS CANDLESTICK,-1,2011-01-28 14:55:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+542576,85179B,,-1,2011-01-28 14:56:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+542577,85232B,SET OF 3 BABUSHKA STACKING TINS,-1,2011-01-28 14:56:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+542579,90000C,,-1,2011-01-28 14:57:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+542580,90095,,-1,2011-01-28 14:58:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+542581,90091,,-1,2011-01-28 14:58:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+542582,DCGS0057,,-6,2011-01-28 15:01:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+542861,47591B,?,-207,2011-02-01 11:47:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+542879,22242,5 HOOK HANGER MAGIC TOADSTOOL,-19,2011-02-01 12:52:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+542882,22162,HEART GARLAND RUSTIC PADDED,-40,2011-02-01 12:55:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+542883,21448,12 DAISY PEGS IN WOOD BOX,-40,2011-02-01 13:07:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+542884,84748,FOLK FELT HANGING MULTICOL GARLAND,-52,2011-02-01 13:08:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+542885,84465,15 PINK FLUFFY CHICKS IN BOX,-6,2011-02-01 13:08:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+543034,85049F,BABY BOOM RIBBONS ,-130,2011-02-02 15:50:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+543035,35004C,SET OF 3 COLOURED  FLYING DUCKS,-206,2011-02-02 15:51:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+543194,21355,TOAST ITS - I LOVE YOU ,-217,2011-02-04 12:25:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+543257,84611B,thrown away,-1430,2011-02-04 16:06:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+543259,84612B,thrown away,-162,2011-02-04 16:07:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+543260,84613A,thrown away,-230,2011-02-04 16:07:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+543261,84613C,BLUE NEW BAROQUE FLOCK CANDLESTICK,-173,2011-02-04 16:08:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+543262,84614A,thrown away,-390,2011-02-04 16:08:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+543265,84872A,TEATIME FUNKY FLOWER BACKPACK FOR 2,-4,2011-02-04 17:23:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+543266,82095,HEART BUTTONS JEWELLERY BOX,-5,2011-02-04 17:24:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+543269,84638,SMALL KITCHEN FLOWER POTS PLAQUE,-18,2011-02-04 17:25:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+543270,84631,FRUIT TREE AND BIRDS WALL PLAQUE,-19,2011-02-04 17:25:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+543271,21087,SET/6 POSIES PAPER CUPS,-6,2011-02-04 17:26:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+543308,35969,,-3,2011-02-07 12:04:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+543310,35954,SMALL FOLKART STAR CHRISTMAS DEC,-234,2011-02-07 12:10:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+543390,84880,WHITE WIRE EGG HOLDER,-5,2011-02-08 10:02:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+543521,22769,CHALKBOARD KITCHEN ORGANISER,-6,2011-02-09 11:49:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+543545,22627,MINT KITCHEN SCALES,-11,2011-02-09 15:50:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+543552,22847,BREAD BIN DINER STYLE IVORY,-10,2011-02-10 10:05:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+543654,22525,CHILDRENS GARDEN GLOVES PINK,-57,2011-02-11 10:29:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+543655,21717,EASTER TIN BUCKET,-42,2011-02-11 10:30:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+543656,84801B,WHITE HYDRANGEA ART FLOWER,-44,2011-02-11 10:30:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+543783,20966,SANDWICH BATH SPONGE,-41,2011-02-11 16:45:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+543827,84406B,incorrectly made-thrown away.,-64,2011-02-14 09:44:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+544046,21785,RAIN PONCHO ,-140,2011-02-15 12:34:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+544063,22837,HOT WATER BOTTLE BABUSHKA ,-9,2011-02-15 13:37:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+544086,21785,RAIN PONCHO ,-7,2011-02-15 16:49:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+544342,22633,HAND WARMER UNION JACK,-53,2011-02-18 09:44:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+544343,22867,HAND WARMER BIRD DESIGN,-99,2011-02-18 09:45:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+544346,22114,HOT WATER BOTTLE TEA AND SYMPATHY,-21,2011-02-18 09:50:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+544347,22114,HOT WATER BOTTLE TEA AND SYMPATHY,-4,2011-02-18 09:51:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+544396,62094B,TURQ ICE CREAM BUM BAG ,-92,2011-02-18 12:16:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+544410,84997C,?,-741,2011-02-18 13:54:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+544554,22588,CARD HOLDER GINGHAM HEART,-41,2011-02-21 12:12:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+544579,21651,HANGING GLASS ETCHED TEALIGHT,-6,2011-02-21 14:05:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+544649,21621,?,-400,2011-02-22 12:37:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+544703,22202,MILK PAN PINK POLKADOT,-114,2011-02-23 10:35:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+544832,62096A,PINK/YELLOW FLOWERS HANDBAG,-88,2011-02-24 10:05:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+544834,90200C,BLUE SWEETHEART BRACELET,-33,2011-02-24 10:15:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+545127,22024,RAINY LADIES BIRTHDAY CARD,-50,2011-02-28 12:04:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+545135,22028,PENNY FARTHING BIRTHDAY CARD,-30,2011-02-28 12:06:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+545219,20738,,-36,2011-02-28 17:04:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+545236,22797,damages,-15,2011-03-01 10:32:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+545401,21769,showroom,-5,2011-03-02 12:03:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+545402,22862,LOVE HEART NAPKIN BOX ,-33,2011-03-02 12:07:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+545546,84249A,check,-150,2011-03-03 15:03:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+545547,85061W,WHITE JEWELLED HEART DECORATION,-391,2011-03-03 15:07:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+545548,77101A,UNION FLAG WINDSOCK,-87,2011-03-03 15:08:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+545549,15058B,PINK POLKADOT GARDEN PARASOL,-61,2011-03-03 15:10:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+545552,22021,BLUE FELT EASTER EGG BASKET,-20,2011-03-03 15:11:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+545554,22988,SOLDIERS EGG CUP ,-70,2011-03-03 15:12:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+545560,37464,ROBOT MUG IN DISPLAY BOX,-2,2011-03-03 16:12:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+545561,37379A,PINK CHERRY BLOSSOM CUP & SAUCER,-9,2011-03-03 16:12:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+545562,20689,,-5,2011-03-03 16:12:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+545563,20671,BLUE TEATIME PRINT BOWL ,-22,2011-03-03 16:13:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+545564,85092,CANDY SPOT TEA COSY,-9,2011-03-03 16:13:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+545565,47563B,,-10,2011-03-03 16:14:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+545566,37477D,,-9,2011-03-03 16:14:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+545567,37444B,BLUE BREAKFAST CUP AND SAUCER ,-3,2011-03-03 16:14:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+545598,22080,RIBBON REEL POLKADOTS ,-278,2011-03-04 11:16:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+545599,22272,FELTCRAFT DOLL MARIA,-140,2011-03-04 11:17:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+545600,85160A,WHITE BIRD GARDEN DESIGN MUG,-21,2011-03-04 11:45:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+545857,20681,MIA,-154,2011-03-07 13:56:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+545990,84598,check,-3000,2011-03-08 13:07:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+546010,22423,damages,-19,2011-03-08 15:55:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+546016,85172,Dotcom set,-675,2011-03-08 17:21:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+546018,85172,wrongly sold as sets,-600,2011-03-08 17:23:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+546020,85175,Amazon sold sets,-210,2011-03-08 17:27:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+546021,85175,dotcom sold sets,-345,2011-03-08 17:27:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+546023,85175,wrongly sold sets,-975,2011-03-08 17:29:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+546024,85175,? sold as sets?,-1200,2011-03-08 17:31:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+546025,85172,?sold as sets?,-600,2011-03-08 17:31:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+546124,35610C,Thrown away.,-1121,2011-03-09 14:50:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+546126,35611B,thrown away,-27,2011-03-09 14:52:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+546129,35610B,thrown away,-541,2011-03-09 15:07:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+546130,35610A,thrown away,-1277,2011-03-09 15:08:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+546137,20893,damages/display,-197,2011-03-09 16:33:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+546138,21815,?,-300,2011-03-09 16:34:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+546140,21527,damages,-30,2011-03-09 16:35:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+546142,40016,damaged stock,-1100,2011-03-09 16:37:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+546145,21537,?,-80,2011-03-09 16:39:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+546146,20752,BLUE POLKADOT WASHING UP GLOVES,-40,2011-03-09 16:41:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+546147,21320,broken,-63,2011-03-09 16:42:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+546148,85049D,?,-100,2011-03-09 16:43:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+546149,20866,?,-230,2011-03-09 17:02:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+546150,21503,TOYBOX  WRAP ,-140,2011-03-09 17:03:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+546151,21504,SKULLS GREETING CARD,-80,2011-03-09 17:04:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+546152,72140F,throw away,-5368,2011-03-09 17:25:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+546245,85185B,?,-259,2011-03-10 13:26:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+546379,72225C,LAVENDER SCENT CAKE CANDLE,-82,2011-03-11 12:21:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+546407,22719,wrong barcode (22467),-178,2011-03-11 16:24:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+546409,21833,damages,-110,2011-03-11 16:27:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+546551,84563A,PINK & WHITE BREAKFAST TRAY,-10,2011-03-14 17:33:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+546661,22777,GLASS CLOCHE LARGE,-25,2011-03-15 14:33:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+546672,85206A,CREAM FELT EASTER EGG BASKET,-77,2011-03-15 15:47:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+546756,79067,CORONA MEXICAN TRAY,-5,2011-03-16 13:31:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+547329,20681,PINK POLKADOT CHILDRENS UMBRELLA,-1,2011-03-22 11:38:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+547330,21894,POTTING SHED SEED ENVELOPES,-40,2011-03-22 11:40:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+547331,17013D,ORIGAMI ROSE INCENSE IN TUBE,-20,2011-03-22 11:41:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+547332,21613,S/12 VANILLA  BOTANICAL T-LIGHTS,-47,2011-03-22 11:42:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+547333,22791,T-LIGHT GLASS FLUTED ANTIQUE,-70,2011-03-22 11:43:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+547335,20934,SET/3 POT PLANT CANDLES,-15,2011-03-22 11:44:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+547336,21689,wrong barcode,-323,2011-03-22 11:45:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+547337,85025C,barcode problem,-230,2011-03-22 11:47:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+547338,22245,"HOOK, 1 HANGER ,MAGIC GARDEN",-110,2011-03-22 11:49:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+547339,84406B,?,-450,2011-03-22 11:51:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+547341,85049D,BRIGHT BLUES RIBBONS ,-20,2011-03-22 11:53:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+547345,22838,3 TIER CAKE TIN RED AND CREAM,-10,2011-03-22 11:55:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+547346,21000,ROSE DU SUD COSMETICS BAG,-41,2011-03-22 11:56:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+547347,22470,HEART OF WICKER LARGE,-6,2011-03-22 11:56:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+547363,22459,?lost,-232,2011-03-22 12:33:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+547369,21898,POTTING SHED ROSE CANDLE,-83,2011-03-22 13:24:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+547403,85028L,FRENCH CHATEAU LARGE FRUIT BOWL ,-2,2011-03-22 17:05:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+547487,84596E,SMALL LICORICE DES PINK BOWL,-153,2011-03-23 11:29:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+547505,22198,LARGE POPCORN HOLDER ,-9,2011-03-23 13:36:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+547506,21538,DAIRY MAID  PUDDING BOWL,-2,2011-03-23 13:38:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+547559,72759,thrown away-can't sell.,-524,2011-03-23 17:27:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+547560,72732,thrown away-can't sell,-2472,2011-03-23 17:28:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+547593,20785,FUSCHIA RETRO BAR STOOL,-2,2011-03-24 11:18:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+547595,82483,WOOD 2 DRAWER CABINET WHITE FINISH,-12,2011-03-24 11:20:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+547596,84306,S/3 PINK SQUARE PLANTERS ROSES,-5,2011-03-24 11:20:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+547597,17011F,ORIGAMI SANDLEWOOD INCENSE+FLOWER,-18,2011-03-24 11:21:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+547598,21332,MOROCCAN BEATEN METAL MIRROR,-25,2011-03-24 11:24:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+547599,21361,LOVE LARGE WOOD LETTERS ,-10,2011-03-24 11:24:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+547606,22173,METAL 4 HOOK HANGER FRENCH CHATEAU,-22,2011-03-24 11:26:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+547611,84631,FRUIT TREE AND BIRDS WALL PLAQUE,-9,2011-03-24 11:26:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+547618,21547,CERAMIC BIRDHOUSE CRESTED TIT SMALL,-12,2011-03-24 11:28:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+547646,84849D,HOT BATHS SOAP HOLDER,-80,2011-03-24 11:42:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+547699,21143,ANTIQUE GLASS HEART DECORATION ,-32,2011-03-24 16:38:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+547700,21147,JINGLE BELLS TREE DECORATION,-105,2011-03-24 16:39:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+547701,84559D,,-7,2011-03-24 16:42:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+547916,22459,CAST IRON HOOK GARDEN TROWEL,-36,2011-03-28 12:46:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+547950,35241,damages?,-40,2011-03-28 15:11:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+547989,21621,re dotcom quick fix.,-100,2011-03-29 09:36:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+547994,21228,"POCKET MIRROR ""GLAMOROUS""",-7,2011-03-29 10:18:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+547995,35823P,,-12,2011-03-29 10:20:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+547996,84534B,FAIRY CAKE NOTEBOOK A5 SIZE,-10,2011-03-29 10:22:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+547997,20857,BLUE ROSE PATCH PURSE PINK BUTTERFL,-34,2011-03-29 10:22:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+547998,20854,BLUE PATCH PURSE PINK HEART,-2,2011-03-29 10:23:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+547999,20860,GOLD COSMETICS BAG WITH BUTTERFLY,-7,2011-03-29 10:24:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+548000,85224,ASSORTED COLOUR SILK GLASSES CASE,-7,2011-03-29 10:24:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+548002,21051,RIBBONS PURSE ,-25,2011-03-29 10:27:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+548008,21190,PINK HEARTS PAPER GARLAND,-80,2011-03-29 10:52:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+548069,20713,JUMBO BAG OWLS,-22,2011-03-29 12:10:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+548095,20850,,-3,2011-03-29 12:17:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+548098,21283,,-15,2011-03-29 12:17:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+548104,84854,GIRLY PINK TOOL SET,-3,2011-03-29 12:18:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+548110,21911,GARDEN METAL SIGN ,-27,2011-03-29 12:20:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+548149,72821,CUPID SCENTED CANDLE IN GLASS,-2,2011-03-29 12:36:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+548173,85067,CREAM SWEETHEART WALL CABINET,-3,2011-03-29 14:17:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+548175,46115B,GREEN POP ART MAO CUSHION COVER ,-2,2011-03-29 14:19:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+548206,22469,HEART OF WICKER SMALL,-53,2011-03-29 16:56:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+548209,21621,VINTAGE UNION JACK BUNTING,-30,2011-03-29 17:21:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+548227,90099,NECKLACE+BRACELET SET BLUE HIBISCUS,-19,2011-03-30 10:24:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+548269,22036,,-45,2011-03-30 11:35:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+548328,21527,RED RETROSPOT TRADITIONAL TEAPOT ,-21,2011-03-30 13:11:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+548339,21827,EIGHT PIECE CREEPY CRAWLIE SET,-42,2011-03-30 14:08:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+548365,79172D,,-7,2011-03-30 15:49:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+548366,84678,CLASSICAL ROSE SMALL VASE,-33,2011-03-30 15:50:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+548369,84683,CLASSICAL ROSE CANDLESTAND,-6,2011-03-30 16:00:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+548376,22533,MAGIC DRAWING SLATE BAKE A CAKE ,-80,2011-03-30 16:39:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+548377,85016,SET OF 6 VINTAGE NOTELETS KIT,-46,2011-03-30 16:40:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+548378,22052,VINTAGE CARAVAN GIFT WRAP,-75,2011-03-30 16:41:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+548380,22127,Dotcom sold in 6's,-60,2011-03-30 16:44:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+548381,22127,sold in set?,-690,2011-03-30 16:45:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+548382,84898F,YELLOW FLOWERS FELT HANDBAG KIT,-2,2011-03-30 16:46:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+548385,22168,ORGANISER WOOD ANTIQUE WHITE ,-19,2011-03-30 16:47:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+548394,82494L,cracked,-39,2011-03-30 17:18:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+548395,22194,BLACK DINER WALL CLOCK,-9,2011-03-30 17:20:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+548396,22719,sold as 22467,-25,2011-03-30 17:21:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+548397,21195,PINK  HONEYCOMB PAPER BALL ,-30,2011-03-30 17:23:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+548398,22482,BLUE TEA TOWEL CLASSIC DESIGN,-66,2011-03-30 17:24:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+548402,21040,MODERN VINTAGE COTTON SHOPPING BAG,-5,2011-03-31 09:26:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+548536,90010B,BLACK/WHITE GLASS/SILVER BRACELET,-50,2011-03-31 17:34:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+548537,90173,PAIR BUTTERFLY HAIR CLIPS,-28,2011-03-31 17:35:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+548540,90035A,"PEARL & SHELL 42""NECKL. GREEN",-9,2011-03-31 17:51:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+548615,16010,FOLDING CAMPING SCISSOR W/KNIF & S,-7,2011-04-01 11:47:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+548620,84313B,Damaged,-32,2011-04-01 11:53:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+548646,21472,LADYBIRD + BEE RAFFIA FOOD COVER,-140,2011-04-01 13:15:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+548662,82494L,WOODEN FRAME ANTIQUE WHITE ,-180,2011-04-01 14:31:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+548675,85185D,FROG SOCK PUPPET,-2,2011-04-01 16:39:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+548676,72800F,,-5,2011-04-01 16:40:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+548677,72781,,-30,2011-04-01 16:40:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+548678,35015,,-9,2011-04-01 16:41:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+548679,72793,,-3,2011-04-01 16:42:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+548680,72800D,4 BLUE DINNER CANDLES SILVER FLOCK,-18,2011-04-01 16:43:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+548682,72789,,-2,2011-04-01 16:44:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+548684,72798C,SET/4 GARDEN ROSE DINNER CANDLE,-2,2011-04-01 16:46:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+548685,85018B,,-2,2011-04-01 16:47:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+548693,22720,SET OF 3 CAKE TINS PANTRY DESIGN ,-60,2011-04-01 17:25:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+548886,85118,HEART T-LIGHT HOLDER,-6,2011-04-04 15:23:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+548887,35824B,,-8,2011-04-04 15:24:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+548888,84726,,-14,2011-04-04 15:25:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+548889,84875A,,-17,2011-04-04 15:26:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+548890,84876C,,-19,2011-04-04 15:26:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+548897,47570B,TEA TIME TABLE CLOTH,-70,2011-04-04 16:22:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+548980,22114,HOT WATER BOTTLE TEA AND SYMPATHY,-194,2011-04-05 12:21:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+548986,21210,SET OF 72 RETROSPOT PAPER  DOILIES,-177,2011-04-05 12:46:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+548989,72799F,IVORY PILLAR CANDLE GOLD FLOCK,-46,2011-04-05 13:19:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+548999,84743C,damages,-26,2011-04-05 14:34:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549000,35972,DAISY FOLKART HEART DECORATION,-45,2011-04-05 14:35:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549001,84845D,,-5,2011-04-05 14:35:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549004,21274,,-3,2011-04-05 14:37:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549005,16020C,CLEAR STATIONERY BOX SET ,-5,2011-04-05 14:37:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549006,84508B,STRIPES DESIGN TEDDY,-23,2011-04-05 14:38:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549008,21281,VINTAGE KITCHEN PRINT SEAFOOD,-31,2011-04-05 14:38:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549009,21474,,-8,2011-04-05 14:39:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549010,21684,SMALL MEDINA STAMPED METAL BOWL ,-62,2011-04-05 14:39:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549011,62096B,PURPLE/TURQ FLOWERS HANDBAG,-8,2011-04-05 14:41:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549028,84569A,PACK 3 IRON ON DOG PATCHES,-18,2011-04-05 17:02:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549029,84569B,PACK 3 FIRE ENGINE/CAR PATCHES,-17,2011-04-05 17:03:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549030,84520B,PACK 20 ENGLISH ROSE PAPER NAPKINS,-61,2011-04-05 17:03:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549031,10134,,-19,2011-04-05 17:04:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549032,20778,GARDEN PATH NOTEBOOK ,-6,2011-04-05 17:06:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549033,16254,TRANSPARENT ACRYLIC TAPE DISPENSER,-5,2011-04-05 17:08:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549035,72051S,BAG OF SILVER STONES,-15,2011-04-05 17:09:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549036,84993B,75 BLACK PETIT FOUR CASES,-54,2011-04-05 17:09:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549037,84569C,PACK 4 FLOWER/BUTTERFLY PATCHES,-37,2011-04-05 17:09:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549038,84569D,PACK 6 HEART/ICE-CREAM PATCHES,-70,2011-04-05 17:10:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549042,21681,GIANT MEDINA STAMPED METAL BOWL ,-2,2011-04-05 17:24:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549043,84990,60 GOLD AND SILVER FAIRY CAKE CASES,-24,2011-04-05 17:26:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549132,20756,GREEN FERN POCKET BOOK,-70,2011-04-06 15:22:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549133,20759,CHRYSANTHEMUM POCKET BOOK ,-52,2011-04-06 15:22:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549134,20758,ABSTRACT CIRCLES POCKET BOOK,-54,2011-04-06 15:22:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549136,21414,SCALLOP SHELL SOAP DISH,-3,2011-04-06 15:23:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549137,84459B,YELLOW METAL CHICKEN HEART ,-7,2011-04-06 15:24:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549139,22988,SOLDIERS EGG CUP ,-91,2011-04-06 15:26:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549142,35650,VINTAGE BEAD PINK JEWEL STAND,-24,2011-04-06 15:26:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549143,84597C,RETRO PINK BALL ASHTRAY ,-17,2011-04-06 15:27:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549144,21416,CLAM SHELL LARGE,-14,2011-04-06 15:28:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549146,85017A,ENVELOPE 50 ROMANTIC IMAGES,-10,2011-04-06 15:29:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549147,20773,BLUE PAISLEY NOTEBOOK,-4,2011-04-06 15:30:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549149,35649,VINTAGE BEAD COSMETIC BAG ,-43,2011-04-06 15:31:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549150,79336,LIGHT PINK FLOCK GLASS CANDLEHOLDER,-47,2011-04-06 15:32:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549156,17013D,ORIGAMI ROSE INCENSE IN TUBE,-9,2011-04-06 17:11:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549157,21511,,-9,2011-04-06 17:13:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549158,21910,WAY OUT METAL SIGN ,-1,2011-04-06 17:13:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549159,22052,VINTAGE CARAVAN GIFT WRAP,-25,2011-04-06 17:14:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549160,81953P,ROUND ARTICULATED PINK CLOCK W/SUCK,-7,2011-04-06 17:15:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549161,21518,BANK ACCOUNT  GREETING  CARD ,-31,2011-04-06 17:15:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549164,16169P,WRAP GREEN RUSSIAN FOLKART ,-75,2011-04-06 17:20:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549165,35815P,"ACRYLIC JEWEL SNOWFLAKE, PINK",-63,2011-04-06 17:20:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549167,84846A,SCENTED CANDLE IN DIGITALIS TIN,-8,2011-04-06 17:24:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549168,21161,KEEP OUT BOYS DOOR HANGER ,-10,2011-04-06 17:24:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549170,82545A,,-4,2011-04-06 17:25:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549171,84251F,,-2,2011-04-06 17:26:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549172,21637,ASSORTED SANSKRIT MINI NOTEBOOK,-139,2011-04-06 17:27:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549173,84218,BOX/12 CHICK & EGG IN BASKET,-2,2011-04-06 17:28:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549174,21160,KEEP OUT GIRLS DOOR HANGER ,-7,2011-04-06 17:30:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549175,21171,BATHROOM METAL SIGN ,-30,2011-04-06 17:30:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549176,35603B,,-12,2011-04-06 17:31:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549178,47502,,-19,2011-04-06 17:33:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549179,84007,,-3,2011-04-06 17:34:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549180,84522,PINK PARTY SUNGLASSES,-30,2011-04-06 17:34:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549244,79331,PINK FLOCK GLASS CANDLEHOLDER,-3,2011-04-07 11:53:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549264,21337,,-21,2011-04-07 12:45:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549266,84593,CROCHET ROSE DES CLOTHES HANGER,-5,2011-04-07 12:45:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549267,46037A,,-5,2011-04-07 12:46:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549268,84856S,SMALL TAHITI BEACH BAG,-7,2011-04-07 12:47:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549270,84856L,LARGE TAHITI BEACH BAG,-27,2011-04-07 12:48:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549271,62096B,PURPLE/TURQ FLOWERS HANDBAG,-2,2011-04-07 12:48:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549326,21738,COSY SLIPPER SHOES SMALL  RED ,-5,2011-04-08 10:45:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549328,51008,AFGHAN SLIPPER SOCK PAIR,-110,2011-04-08 10:49:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549329,84989A,75 GREEN FAIRY CAKE CASES,-1,2011-04-08 10:49:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549330,84251J,,-28,2011-04-08 10:53:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549331,40018F,,-22,2011-04-08 10:54:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549332,84864A,,-2,2011-04-08 10:55:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549340,20774,GREEN FERN NOTEBOOK,-11,2011-04-08 11:02:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549342,35818B,"ACRYLIC JEWEL ICICLE, BLUE",-53,2011-04-08 11:06:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549343,72815,3 WICK CHRISTMAS BRIAR CANDLE ,-3,2011-04-08 11:07:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549344,21825,,-14,2011-04-08 11:08:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549346,22033,BOTANICAL ROSE GREETING CARD,-50,2011-04-08 11:10:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549348,84251B,"GREETING CARD, STICKY GORDON",-60,2011-04-08 11:13:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549349,10123G,,-38,2011-04-08 11:13:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549350,84597B,RETRO BROWN BALL ASHTRAY ,-13,2011-04-08 11:14:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549351,85006,SET 4 NURSERY DES ROUND BOXES,-21,2011-04-08 11:14:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549355,84899F,,-5,2011-04-08 11:21:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549371,84921,CREAM AND PINK FLOWERS PONY ,-17,2011-04-08 11:27:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549373,85008,SET OF 3 CONEY ISLAND OVAL BOXES,-2,2011-04-08 11:28:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549374,20775,DAISY NOTEBOOK ,-29,2011-04-08 11:29:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549375,20863,,-6,2011-04-08 11:29:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549426,22078,RIBBON REEL LACE DESIGN ,-201,2011-04-08 11:55:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549427,22797,damages,-12,2011-04-08 11:56:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549455,84858C,PINK RIVIERA HANDBAG,-10,2011-04-08 14:18:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549456,47341A,FUSCHIA TABLE RUN FLOWER ,-6,2011-04-08 14:19:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549457,47344B,BLUE FLOWER DES PURSE,-16,2011-04-08 14:19:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549458,62097B,BLUE STRIPES SHOULDER BAG,-6,2011-04-08 14:19:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549460,20716,PARTY FOOD SHOPPER BAG,-82,2011-04-08 14:20:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549461,20731,POSY CANDY BAG,-16,2011-04-08 14:20:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549462,84910A,PINK PAISLEY CUSHION COVER ,-16,2011-04-08 14:21:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549463,84919,BLUE CUSHION COVER WITH FLOWER,-17,2011-04-08 14:21:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549464,20701,PINK CAT FLORAL CUSHION COVER ,-6,2011-04-08 14:21:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549465,84415B,BLUE FLOCK CUSHION COVER ,-5,2011-04-08 14:22:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549466,20816,GOLD FLOWER CUSHION COVER ,-11,2011-04-08 14:22:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549470,46775D,SUNSET COLOUR CHUNKY KNITTED THROW,-8,2011-04-08 14:28:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549506,22415,WHITE TISSUE REAM,-31,2011-04-08 15:07:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549510,84559B,3D SHEET OF CAT STICKERS,-158,2011-04-08 15:08:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549514,20820,SILVER LOOKING MIRROR,-3,2011-04-08 15:09:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549527,21620,mystery! Only ever imported 1800,-1479,2011-04-08 16:03:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549528,21422,PORCELAIN ROSE SMALL,-55,2011-04-08 16:44:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549529,21830,"MERCHANT CHANDLER CREDIT ERROR, STO",-576,2011-04-08 16:56:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549531,21622,POSSIBLE DAMAGES OR LOST?,-750,2011-04-08 17:05:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549695,84751B,BLACK MEDIUM GLASS CAKE STAND,-24,2011-04-11 13:50:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549846,21100,Damaged,-6,2011-04-12 14:30:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549848,84531A,PINK KNITTED EGG COSY,-34,2011-04-12 14:51:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549849,84531B,BLUE KNITTED EGG COSY,-23,2011-04-12 14:51:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549935,35915C,damaged,-43,2011-04-13 11:16:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549948,37488A,damaged,-1,2011-04-13 12:55:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549950,37487B,Damaged,-6,2011-04-13 12:57:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+549952,37482P,Damaged,-93,2011-04-13 13:05:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+550133,85099F,JUMBO BAG STRAWBERRY,-1092,2011-04-14 13:49:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+550153,85167B,DAMAGED,-1,2011-04-14 14:44:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+550753,84763,Display,-150,2011-04-20 11:53:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+550757,16202B,PASTEL BLUE PHOTO ALBUM ,-9,2011-04-20 12:08:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+550758,85017A,ENVELOPE 50 ROMANTIC IMAGES,-8,2011-04-20 12:09:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+550759,21087,SET/6 POSIES PAPER CUPS,-7,2011-04-20 12:09:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+550760,84750B,BLACK SMALL GLASS CAKE STAND,-4,2011-04-20 12:09:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+550762,85030,FRENCH CHATEAU OVAL PLATTER,-9,2011-04-20 12:10:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+550763,84666,SQUARE CHERRY BLOSSOM CABINET,-5,2011-04-20 12:11:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+550800,22458,Missing,-65,2011-04-20 14:48:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+550908,20827,damages,-68,2011-04-21 12:39:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+550922,22784,damages,-25,2011-04-21 14:29:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+550943,21316,SMALL CHUNKY GLASS ROMAN  BOWL,-5,2011-04-21 15:51:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+550945,79329,PINK FLOCK GLASS CANDLEHOLDER,-2,2011-04-21 15:52:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+550954,47013A,damaged,-2,2011-04-21 16:18:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+550970,82599,FANNY'S REST STOPMETAL SIGN,-11,2011-04-21 17:02:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+551019,22467,wrong code?,-100,2011-04-26 11:19:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+551020,22719,wrong code,-110,2011-04-26 11:19:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+551168,85068,CREAM SWEETHEART SHELF + HOOKS,-4,2011-04-26 16:06:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+551201,16015,MEDIUM CHINESE STYLE SCISSOR,-620,2011-04-27 11:33:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+551243,51020B,adjust,-53,2011-04-27 11:49:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+551302,48189,damaged,-18,2011-04-27 14:55:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+551323,21398,damages,-9,2011-04-27 15:31:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+551326,85017A,ENVELOPE 50 ROMANTIC IMAGES,-2,2011-04-27 15:51:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+551327,84228,crushed,-4,2011-04-27 16:01:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+551328,21320,GLASS CHALICE GREEN  LARGE ,-23,2011-04-27 16:08:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+551422,22084,PAPER CHAIN KIT EMPIRE,-150,2011-04-28 14:11:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+551429,10002,INFLATABLE POLITICAL GLOBE ,-3,2011-04-28 15:05:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+551430,20966,SANDWICH BATH SPONGE,-3,2011-04-28 15:06:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+551431,44091A,BLUE CRUSOE CHECK LAMPSHADE,-2,2011-04-28 15:06:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+551432,21923,,-5,2011-04-28 15:06:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+551433,21784,SHOE SHINE BOX ,-2,2011-04-28 15:07:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+551434,20896,,-5,2011-04-28 15:07:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+551435,20825,,-5,2011-04-28 15:08:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+551441,85136B,BLUE SHARK HELICOPTER,-4,2011-04-28 15:50:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+551442,85060,,-4,2011-04-28 15:50:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+551443,35920,FOUR RABBIT EASTER DECORATIONS,-4,2011-04-28 15:51:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+551444,35809B,ENAMEL BLUE RIM TEA CONTAINER,-4,2011-04-28 15:58:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+551446,35594,,-4,2011-04-28 15:58:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+551447,35004C,SET OF 3 COLOURED  FLYING DUCKS,-4,2011-04-28 15:59:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+551448,22734,SET OF 6 RIBBONS VINTAGE CHRISTMAS,-4,2011-04-28 15:59:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+551449,22525,CHILDRENS GARDEN GLOVES PINK,-4,2011-04-28 16:00:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+551450,21410,COUNTRY COTTAGE  DOORSTOP GREEN,-4,2011-04-28 16:00:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+551451,21330,,-4,2011-04-28 16:01:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+551452,84715,SET OF 6 ICE CREAM SKITTLES,-3,2011-04-28 16:01:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+551453,82494L,WOODEN FRAME ANTIQUE WHITE ,-3,2011-04-28 16:01:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+551454,78027,,-3,2011-04-28 16:02:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+551455,37333,"RETRO ""TEA FOR ONE"" ",-1,2011-04-28 16:03:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+551456,22795,SWEETHEART RECIPE BOOK STAND,-3,2011-04-28 16:03:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+551457,22719,GUMBALL MONOCHROME COAT RACK,-3,2011-04-28 16:04:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+551459,22173,METAL 4 HOOK HANGER FRENCH CHATEAU,-30,2011-04-28 16:04:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+551461,21806,,-3,2011-04-28 16:05:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+551553,22521,CHILDS GARDEN TROWEL PINK,-90,2011-05-03 10:15:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+551554,22720,SET OF 3 CAKE TINS PANTRY DESIGN ,-4,2011-05-03 10:19:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+551565,85135A,YELLOW DRAGONFLY HELICOPTER,-7,2011-05-03 11:10:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+551568,21038,SET/4 MODERN VINTAGE COTTON NAPKINS,-6,2011-05-03 11:12:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+551569,85226C,,-6,2011-05-03 11:13:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+551570,85189,HANGING BUTTERFLY  EGG,-6,2011-05-03 11:13:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+551571,47591A,,-6,2011-05-03 11:14:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+551572,37424,,-6,2011-05-03 11:15:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+551573,22726,ALARM CLOCK BAKELIKE GREEN,-5,2011-05-03 11:15:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+551574,21692,SILVER LATTICE VANILLA CANDLE POT,-6,2011-05-03 11:16:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+551575,21412,VINTAGE GOLD TINSEL REEL,-6,2011-05-03 11:16:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+551577,90100,NECKLACE+BRACELET SET PINK DAISY,-5,2011-05-03 11:19:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+551578,90037D,,-5,2011-05-03 11:19:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+551579,85098B,BLUE FLYING SINGING CANARY,-5,2011-05-03 11:20:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+551580,85084,HOLLY TOP CHRISTMAS STOCKING,-5,2011-05-03 11:20:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+551582,84857A,,-5,2011-05-03 11:21:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+551583,84482,,-5,2011-05-03 11:21:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+551586,21120,*Boombox Ipod Classic,-6,2011-05-03 11:24:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+551589,21854,,-2,2011-05-03 11:30:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+551663,84548,CROCHET BEAR RED/BLUE  KEYRING,-70,2011-05-03 12:34:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+551664,20933,YELLOW POT PLANT CANDLE,-3,2011-05-03 12:34:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+551666,84750A,PINK SMALL GLASS CAKE STAND,-10,2011-05-03 12:35:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+551668,22444,GROW YOUR OWN PLANT IN A CAN ,-10,2011-05-03 12:37:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+551671,20734,SILVER MINI TAPE MEASURE ,-10,2011-05-03 12:38:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+551672,84631,FRUIT TREE AND BIRDS WALL PLAQUE,-4,2011-05-03 12:39:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+551673,79192A,RETRO PLASTIC 70'S TRAY,-9,2011-05-03 12:39:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+551689,22625,RED KITCHEN SCALES,-9,2011-05-03 13:35:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+551690,21143,ANTIQUE GLASS HEART DECORATION ,-9,2011-05-03 13:35:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+551695,22467,GUMBALL COAT RACK,-8,2011-05-03 13:37:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+551700,85144,JARDIN ETCHED GLASS CHEESE DISH,-38,2011-05-03 14:13:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+551701,84683,CLASSICAL ROSE CANDLESTAND,-2,2011-05-03 14:15:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+551704,22656,VINTAGE BLUE KITCHEN CABINET,-2,2011-05-03 14:33:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+551705,22655,damages/showroom etc,-11,2011-05-03 14:35:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+551722,20975,12 PENCILS SMALL TUBE RED RETROSPOT,-170,2011-05-03 16:50:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+551723,22136,LOVE HEART SOCK HANGER,-23,2011-05-03 16:51:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+551735,21656,samples,-19,2011-05-04 10:25:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+551837,79164,damages/credits from ASOS.,-1512,2011-05-04 13:23:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+551838,35609A,PINK FEATHER CHRISTMAS DECORATION,-51,2011-05-04 13:31:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+552050,84916,HAND TOWEL PALE BLUE W FLOWERS,-32,2011-05-06 10:08:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+552052,84917,WHITE HAND TOWEL WITH BUTTERFLY,-8,2011-05-06 10:10:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+552214,84872A,TEATIME FUNKY FLOWER BACKPACK FOR 2,-12,2011-05-06 15:11:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+552215,17096,ASSORTED LAQUERED INCENSE HOLDERS,-41,2011-05-06 15:12:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+552216,21363,HOME SMALL WOOD LETTERS,-19,2011-05-06 15:12:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+552218,84406B,CREAM CUPID HEARTS COAT HANGER,-38,2011-05-06 15:15:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+552219,22073,RED RETROSPOT STORAGE JAR,-56,2011-05-06 15:16:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+552221,21043,APRON MODERN VINTAGE COTTON,-38,2011-05-06 15:20:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+552222,21974,SET OF 36 PAISLEY FLOWER DOILIES,-45,2011-05-06 15:22:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+552223,22524,CHILDRENS GARDEN GLOVES BLUE,-49,2011-05-06 15:24:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+552224,84766,SILVER ROCOCO CANDLE STICK,-37,2011-05-06 15:25:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+552225,22775,PURPLE DRAWERKNOB ACRYLIC EDWARDIAN,-40,2011-05-06 15:26:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+552226,22035,VINTAGE CARAVAN GREETING CARD ,-160,2011-05-06 15:26:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+552228,84912B,GREEN ROSE WASHBAG,-93,2011-05-06 15:29:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+552331,22667,damaged,-30,2011-05-09 10:24:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+552443,22796,Not rcvd in 10/11/2010 delivery,-360,2011-05-09 13:05:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+552653,22926,IVORY GIANT GARDEN THERMOMETER,-48,2011-05-10 14:12:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+552733,23059,Thrown away-rusty,-2376,2011-05-11 10:48:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+552763,21137,BLACK RECORD COVER FRAME,-25,2011-05-11 11:33:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+552766,22084,PAPER CHAIN KIT EMPIRE,-56,2011-05-11 11:41:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+552767,79164,BLACK WINE GLASS,-47,2011-05-11 11:42:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+552768,22087,PAPER BUNTING WHITE LACE,-26,2011-05-11 11:43:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+552979,35970,ZINC FOLKART SLEIGH BELLS,-217,2011-05-12 14:49:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+553041,22521,CHILDS GARDEN TROWEL PINK,-9,2011-05-13 09:01:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+553147,84879,damaged,-160,2011-05-13 13:58:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+553391,37370,sold as set/6 by dotcom,-786,2011-05-16 16:42:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+553394,15058A,wet/rusty,-30,2011-05-16 16:47:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+553395,15058C,wet/rusty,-30,2011-05-16 16:47:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+553396,22423,damages,-21,2011-05-16 16:48:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+553398,37370,damages/dotcom?,-590,2011-05-16 17:07:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+553399,84789,ENCHANTED BIRD PLANT CAGE,-2,2011-05-16 17:08:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+553400,20803,damages,-40,2011-05-16 17:09:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+553401,22060,LARGE CAKE STAND HANGING HEARTS,-16,2011-05-16 17:10:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+553413,21259,VICTORIAN SEWING BOX SMALL ,-51,2011-05-17 09:45:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+553548,75131,METAL TUBE CHIME ON BAMBOO,-48,2011-05-17 15:57:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+553651,46126A,ELVIS WALLHANGING / CURTAIN,-23,2011-05-18 11:06:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+553652,20826,SILVER APERITIF GLASS,-168,2011-05-18 11:06:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+553659,20967,GREY FLORAL FELTCRAFT SHOULDER BAG,-77,2011-05-18 11:47:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+553743,21318,GLASS CHALICE BLUE SMALL ,-62,2011-05-19 09:44:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+553744,85141,JARDIN ETCHED GLASS FRUITBOWL,-7,2011-05-19 09:44:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+554017,22520,CHILDS GARDEN TROWEL BLUE ,-101,2011-05-20 13:15:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+554020,22518,CHILDS GARDEN BRUSH BLUE,-30,2011-05-20 13:17:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+554021,20886,BOX OF 9 PEBBLE CANDLES,-65,2011-05-20 13:18:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+554023,82613B,"METAL SIGN,CUPCAKE SINGLE HOOK",-71,2011-05-20 13:20:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+554024,20998,ROSE DU SUD OVEN GLOVE,-11,2011-05-20 13:21:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+554128,84563A,damaged,-4,2011-05-23 09:26:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+554133,84596J,MIXED NUTS LIGHT GREEN BOWL,-3,2011-05-23 09:46:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+554143,79030G,damages,-413,2011-05-23 10:40:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+554144,79030D,damages,-664,2011-05-23 10:42:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+554145,84313C,ORANGE TV TRAY TABLE ,-12,2011-05-23 10:43:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+554276,22966,GINGERBREAD MAN COOKIE CUTTER,-58,2011-05-23 13:19:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+554287,22700,smashed,-48,2011-05-23 14:17:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+554299,20975,12 PENCILS SMALL TUBE RED RETROSPOT,-39,2011-05-23 14:28:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+554311,84743C,,-16,2011-05-23 15:28:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+554312,84741C,CITRUS GARLAND FELT FLOWERS ,-2,2011-05-23 15:28:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+554313,21144,PINK POODLE HANGING DECORATION ,-63,2011-05-23 15:28:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+554314,85195,HANGING HEART BASKET,-13,2011-05-23 15:29:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+554316,21195,PINK  HONEYCOMB PAPER BALL ,-1,2011-05-23 15:29:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+554317,85198,ASSORTED FARMYARD ANIMALS IN BUCKET,-11,2011-05-23 15:29:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+554318,84535A,ENGLISH ROSE NOTEBOOK A6 SIZE,-65,2011-05-23 15:30:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+554319,47574B,ENGLISH ROSE SCENTED HANGING HEART,-13,2011-05-23 15:31:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+554320,16053,,-102,2011-05-23 15:32:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+554321,16244B,MAXWELL 2 TONE BLUE 60 PAGE PHOTO A,-5,2011-05-23 15:32:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+554328,21609,SET 12 LAVENDER  BOTANICAL T-LIGHTS,-46,2011-05-23 16:49:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+554360,22524,CHILDRENS GARDEN GLOVES BLUE,-13,2011-05-24 09:59:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+554432,85132A,damaged,-97,2011-05-24 12:16:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+554488,84913A,SOFT PINK ROSE TOWEL ,-75,2011-05-24 13:35:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+554551,47566B,reverse previous adjustment,-1300,2011-05-25 09:58:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+554553,47566B,incorrectly credited C550456 see 47,-1300,2011-05-25 09:59:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+554559,16151A,FLOWERS HANDBAG blue and orange,-2,2011-05-25 10:28:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+554675,20903,VINTAGE KEEPSAKE BOX TRAVELOGUE,-33,2011-05-25 16:01:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+554676,71143,SILVER BOOK MARK WITH BEADS,-31,2011-05-25 16:03:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+554678,85086A,CANDY SPOT HEART DECORATION,-30,2011-05-25 16:03:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+554679,35916A,YELLOW FELT HANGING HEART W FLOWER,-21,2011-05-25 16:04:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+554680,35916B,BLUE FELT HANGING HEART WITH FLOWER,-21,2011-05-25 16:04:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+554681,35916C,PINK FELT HANGING HEART W FLOWER,-32,2011-05-25 16:04:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+554852,21272,?,-212,2011-05-27 09:24:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+554907,40003,WHITE BAMBOO RIBS LAMPSHADE,-11,2011-05-27 11:45:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+554928,21763,VINTAGE WOODEN BAR STOOL,-3,2011-05-27 13:03:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+555330,84804A,wet damaged,-125,2011-06-02 11:11:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+555331,84800L,wet damaged,-144,2011-06-02 11:11:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+555332,84801A,wet damaged,-48,2011-06-02 11:11:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+555333,84805B,wet damaged,-96,2011-06-02 11:12:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+555334,84805A,wet damaged,-96,2011-06-02 11:12:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+555335,84804B,BLUE DELPHINIUM ARTIFICIAL FLOWER,-96,2011-06-02 11:13:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+555387,22276,WASH BAG VINTAGE ROSE PAISLEY,-59,2011-06-02 15:30:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+555391,22501,PICNIC BASKET WICKER LARGE,-10,2011-06-02 16:29:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+555503,84313C,damaged,-1,2011-06-03 15:39:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+555505,79030G,Water damaged,-16,2011-06-03 15:48:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+555506,21397,damaged,-57,2011-06-03 16:03:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+555821,21399,BLUE POLKADOT COFFEE MUG,-116,2011-06-07 12:01:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+555822,35809A,ENAMEL PINK TEA CONTAINER,-13,2011-06-07 12:04:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+555823,47021G,SET/6 BEAD COASTERS GAUZE BAG GOLD,-52,2011-06-07 12:06:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+555824,21043,APRON MODERN VINTAGE COTTON,-12,2011-06-07 12:06:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+555838,22966,GINGERBREAD MAN COOKIE CUTTER,-6,2011-06-07 12:37:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+556012,15044B,BLUE PAPER PARASOL ,-27,2011-06-08 11:45:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+556013,21662,VINTAGE GLASS COFFEE CADDY,-17,2011-06-08 11:46:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+556014,37476,CONDIMENT TRAY 4 BOWLS AND 4 SPOONS,-3,2011-06-08 11:46:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+556015,37501,TEA TIME TEA SET IN GIFT BOX,-13,2011-06-08 11:50:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+556046,21890,missing,-140,2011-06-08 12:56:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+556061,20906,VINTAGE NOTEBOOK BEAUTY GIRL,-21,2011-06-08 14:04:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+556069,84226,HEN HOUSE W FAMILY IN BARN & NEST,-34,2011-06-08 14:41:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+556074,22519,CHILDS GARDEN BRUSH PINK,-19,2011-06-08 15:14:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+556122,85019C,Damaged,-108,2011-06-09 10:12:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+556123,22272,Damaged,-15,2011-06-09 10:13:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+556124,17007B,S/3 POT POURI CUSHIONS BLUE COLOURS,-4,2011-06-09 10:14:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+556232,21135,sold as set on dotcom,-304,2011-06-09 15:15:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+556233,21136,sold as set on dotcom,-272,2011-06-09 15:20:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+556242,21700,sold as set on dotcom and amazon,-1206,2011-06-09 16:06:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+556260,37340,sold as set on dotcom,-18,2011-06-09 18:02:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+556261,79051A,sold as set on dotcom,-6,2011-06-09 18:03:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+556262,37327,sold as set on dotcom,-95,2011-06-09 18:04:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+556286,16052,TEATIME PUSH DOWN RUBBER,-16,2011-06-10 09:22:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+556287,16043,POP ART PUSH DOWN RUBBER ,-45,2011-06-10 09:22:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+556289,20823,GOLD WINE GOBLET,-102,2011-06-10 09:23:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+556292,21472,LADYBIRD + BEE RAFFIA FOOD COVER,-1,2011-06-10 09:24:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+556299,21937,?,-161,2011-06-10 10:17:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+556300,20735,BLACK MINI TAPE MEASURE ,-472,2011-06-10 10:18:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+556301,22968,water damage,-50,2011-06-10 10:18:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+556306,37479B,sold as set by dotcom,-30,2011-06-10 10:38:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+556307,37479P,sold as set on dotcom,-30,2011-06-10 10:39:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+556308,22130,sold as set on dotcom,-390,2011-06-10 10:43:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+556309,22856,sold as set on dotcom,-30,2011-06-10 10:44:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+556310,22944,sold as set on dotcom,-42,2011-06-10 10:44:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+556311,37471,sold as set on dotcom,-12,2011-06-10 10:45:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+556312,22924,sold as set on dotcom,-30,2011-06-10 10:46:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+556313,22923,sold as set on dotcom,-12,2011-06-10 10:46:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+556314,23155,sold as set on dotcom,-84,2011-06-10 10:47:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+556315,22948,sold as set on dotcom,-108,2011-06-10 10:47:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+556316,22128,sold as set on dotcom,-24,2011-06-10 10:48:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+556317,22857,sold as set on dotcom,-48,2011-06-10 10:48:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+556319,22945,sold as set on dotcom,-618,2011-06-10 10:49:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+556320,22922,sold as set on dotcom,-42,2011-06-10 10:50:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+556321,79163,sold as set on dotcom,-24,2011-06-10 10:50:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+556322,22915,sold as set on dotcom,-204,2011-06-10 10:51:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+556687,23003,Printing smudges/thrown away,-9058,2011-06-14 10:36:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+556690,23005,printing smudges/thrown away,-9600,2011-06-14 10:37:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+556691,23005,printing smudges/thrown away,-9600,2011-06-14 10:37:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+556884,22698,PINK REGENCY TEACUP AND SAUCER,-61,2011-06-15 12:27:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+556943,84809A,WHITE CHRYSANTHEMUMS ART FLOWER,-126,2011-06-15 16:54:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+556944,84800L,LARGE WHITE/PINK ROSE ART FLOWER,-29,2011-06-15 16:54:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+556963,35965,found some more on shelf,-9,2011-06-16 09:40:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+557025,22192,BLUE DINER WALL CLOCK,-9,2011-06-16 13:09:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+557028,79071B,ENGLISH ROSE METAL WASTE BIN,-4,2011-06-16 13:25:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+557029,22480,RED TEA TOWEL CLASSIC DESIGN,-24,2011-06-16 13:29:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+557030,21446,12 RED ROSE PEG PLACE SETTINGS,-50,2011-06-16 13:30:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+557031,21447,12 IVORY ROSE PEG PLACE SETTINGS,-65,2011-06-16 13:31:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+557035,82583,?,-220,2011-06-16 13:52:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+557036,20867,?,-271,2011-06-16 13:53:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+557108,23113,Damaged,-1440,2011-06-16 15:58:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+557390,21360,Show Samples,-4,2011-06-20 11:12:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+557417,84809B,damaged,-324,2011-06-20 11:51:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+557596,23114,Damaged,-1440,2011-06-21 11:33:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+557597,23115,Damaged,-1440,2011-06-21 11:33:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+557599,23116,Damaged,-1440,2011-06-21 11:34:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+557600,23117,Damaged,-1440,2011-06-21 11:35:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+557756,22567,20 DOLLY PEGS RETROSPOT,-14,2011-06-22 13:18:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+557777,44265,M/COLOUR POM-POM CURTAIN,-5,2011-06-22 15:11:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+557778,21161,KEEP OUT BOYS DOOR HANGER ,-38,2011-06-22 15:11:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+557784,21421,damaged,-5,2011-06-22 15:49:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+557806,84706D,CHERRY BLOSSOM TABLE CLOCK ,-5,2011-06-23 10:32:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+557851,85130A,BEADED PEARL HEART WHITE LARGE,-23,2011-06-23 10:57:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+558032,22443,GROW YOUR OWN HERBS SET OF 3,-7,2011-06-24 12:14:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+558033,84876B,GREEN HEART COMPACT MIRROR,-59,2011-06-24 12:15:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+558034,20658,RED RETROSPOT LUGGAGE TAG,-78,2011-06-24 12:17:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+558238,22722,SET OF 6 SPICE TINS PANTRY DESIGN,-21,2011-06-27 15:04:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+558244,84796B,BLUE SAVANNAH PICNIC HAMPER FOR 2,-2,2011-06-27 15:52:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+558268,21351,damaged,-220,2011-06-28 10:17:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+558306,85232D,mix up with c,-118,2011-06-28 10:59:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+558307,22088,PAPER BUNTING COLOURED LACE,-39,2011-06-28 11:02:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+558308,84576,BLUE CAT BISCUIT BARREL PINK HEART,-10,2011-06-28 11:02:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+558309,85132B,CHARLIE AND LOLA TABLE TINS,-42,2011-06-28 11:03:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+558318,85232A,SET/3 POLKADOT STACKING TINS,-14,2011-06-28 11:52:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+558377,37423,WHITE WITH BLACK CATS PLATE,-17,2011-06-28 16:24:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+558378,79161A,ST GEORGE SET OF 10 PARTY LIGHTS,-13,2011-06-28 16:27:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+558379,22618,"mouldy, unsaleable.",-1681,2011-06-28 16:34:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+558445,22034,ROBIN CHRISTMAS CARD,-18,2011-06-29 13:39:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+558446,22164,STRING OF STARS CARD HOLDER,-80,2011-06-29 13:40:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+558448,22163,HEART STRING MEMO HOLDER HANGING,-90,2011-06-29 13:40:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+558449,21807,WHITE CHRISTMAS STAR DECORATION,-35,2011-06-29 13:40:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+558451,21817,GLITTER CHRISTMAS TREE,-80,2011-06-29 13:41:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+558457,21147,?,-95,2011-06-29 13:59:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+558464,35966,FOLKART CHRISTMAS TREE T-LIGHT HOLD,-20,2011-06-29 15:17:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+558476,84597B,damages,-6,2011-06-29 16:04:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+558477,84597C,RETRO PINK BALL ASHTRAY ,-1,2011-06-29 16:04:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+558520,21896,POTTING SHED TWINE,-38,2011-06-30 10:25:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+558723,84865,damaged,-7,2011-07-01 14:28:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+558728,20826,SILVER APERITIF GLASS,-1,2011-07-01 14:50:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+558730,22060,damaged,-1,2011-07-01 14:51:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+558732,47341A,FUSCHIA TABLE RUN FLOWER ,-1,2011-07-01 14:55:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+558741,37444C,PINK BREAKFAST CUP AND SAUCER ,-1,2011-07-01 15:52:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+558742,62043B,BLUE CHECK BAG W HANDLE 34X20CM,-1,2011-07-01 15:56:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+558743,35810B,ENAMEL BLUE RIM COFFEE CONTAINER,-4,2011-07-01 15:56:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+558890,84857C,PINK MONTE CARLO HANDBAG,-24,2011-07-04 15:34:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+559314,84584,?,-50,2011-07-07 13:51:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+559365,22451,SILK PURSE BABUSHKA RED,-3,2011-07-08 08:53:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+559373,16156S,WRAP PINK FAIRY CAKES ,-110,2011-07-08 10:36:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+559374,22050,PINK PAISLEY ROSE GIFT WRAP,-100,2011-07-08 10:37:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+559375,22051,?,-300,2011-07-08 10:37:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+559376,48116,DOORMAT MULTICOLOUR STRIPE,-35,2011-07-08 10:38:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+559378,21781,damages?,-39,2011-07-08 10:40:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+559379,79337,BLUE FLOCK GLASS CANDLEHOLDER,-8,2011-07-08 10:42:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+559390,21700,BIG DOUGHNUT FRIDGE MAGNETS,-110,2011-07-08 10:46:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+559398,21169,YOU'RE CONFUSING ME METAL SIGN ,-70,2011-07-08 10:48:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+559402,21635,MADRAS NOTEBOOK LARGE ,-8,2011-07-08 10:49:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+559405,22863,SOAP DISH BROCANTE,-7,2011-07-08 10:50:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+559410,84341B,SMALL PINK MAGIC CHRISTMAS TREE,-179,2011-07-08 10:51:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+559414,22855,FINE WICKER HEART ,-4,2011-07-08 10:52:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+559423,71143,SILVER BOOK MARK WITH BEADS,-14,2011-07-08 12:06:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+559655,21166,?,-124,2011-07-11 12:57:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+559792,21067,VINTAGE RED TEATIME MUG,-66,2011-07-12 12:31:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+559943,21578,?,-251,2011-07-14 10:21:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+560037,22242,5 HOOK HANGER MAGIC TOADSTOOL,-34,2011-07-14 14:00:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+560039,20713,wrongly marked. 23343 in box,-3100,2011-07-14 14:27:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+560091,44236,PINK/PURPLE CIRCLE CURTAIN,-10,2011-07-14 17:03:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+560110,21673,WHITE SPOT BLUE CERAMIC DRAWER KNOB,-40,2011-07-15 09:51:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+560111,84874B,BLUE TRAVEL FIRST AID KIT,-3,2011-07-15 09:52:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+560112,21683,MEDIUM MEDINA STAMPED METAL BOWL ,-38,2011-07-15 09:52:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+560113,21865,PINK UNION JACK  PASSPORT COVER ,-40,2011-07-15 09:52:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+560114,75172,PAINTED SEA SHELL METAL WINDCHIME,-35,2011-07-15 09:53:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+560213,10123C,HEARTS WRAPPING TAPE ,-18,2011-07-15 15:05:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+560214,16162L,THE KING GIFT BAG,-54,2011-07-15 15:07:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+560215,16162M,THE KING GIFT BAG 25x24x12cm,-84,2011-07-15 15:08:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+560423,16169K,WRAP FOLK ART,-25,2011-07-18 15:15:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+560424,21503,TOYBOX  WRAP ,-84,2011-07-18 15:15:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+560425,81950B,FLOWER BLUE CLOCK WITH SUCKER,-23,2011-07-18 15:15:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+560427,84629,WHITE 3 FRAME BIRDS AND TREE ,-2,2011-07-18 15:16:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+560428,21634,ASSORTED MINI MADRAS NOTEBOOK,-169,2011-07-18 15:17:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+560440,84029E,RED WOOLLY HOTTIE WHITE HEART.,-1,2011-07-18 16:36:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+560583,17096,ASSORTED LAQUERED INCENSE HOLDERS,-7,2011-07-19 15:31:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+560600,18007,ESSENTIAL BALM 3.5g TIN IN ENVELOPE,-2834,2011-07-19 17:04:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+560717,84576,damaged,-3,2011-07-20 13:28:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+560719,84877A,PINK ROUND COMPACT MIRROR,-21,2011-07-20 13:30:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+560722,16049,TEATIME GEL PENS ASST,-31,2011-07-20 13:37:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+560730,84797B,,-2,2011-07-20 14:53:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+560737,84798B,PURPLE FOXGLOVE ARTIIFCIAL FLOWER,-109,2011-07-20 15:34:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+560830,81953B,ROUND BLUE CLOCK WITH SUCKER,-6,2011-07-21 12:03:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+560831,81950V,,-1,2011-07-21 12:04:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+560867,21891,TRADITIONAL WOODEN SKIPPING ROPE,-21,2011-07-21 14:10:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+560923,22777,GLASS CLOCHE LARGE,-14,2011-07-22 08:54:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+560939,84907,PINK YELLOW PATCH CUSHION COVER,-3,2011-07-22 11:20:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+560940,72127,COLUMBIAN CANDLE ROUND ,-53,2011-07-22 11:20:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+560941,85230E,STRAWBRY SCENTED VOTIVE CANDLE,-178,2011-07-22 11:21:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+561086,15036,ASSORTED COLOURS SILK FAN,-530,2011-07-25 09:32:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+561103,85103,stock creditted wrongly,-32,2011-07-25 11:23:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+561107,84763,ZINC FINISH 15CM PLANTER POTS,-5,2011-07-25 11:42:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+561108,46775D,SUNSET COLOUR CHUNKY KNITTED THROW,-7,2011-07-25 11:43:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+561110,85087,CANDY SPOT CUSHION COVER,-16,2011-07-25 11:44:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+561249,DCGS0073,ebay,-4,2011-07-26 11:51:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+561250,DCGS0071,,-2,2011-07-26 11:51:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+561251,DCGS0070,CAMOUFLAGE DOG COLLAR,-8,2011-07-26 11:51:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+561252,DCGS0069,ebay,-5,2011-07-26 11:52:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+561253,DCGS0068,ebay,-10,2011-07-26 11:52:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+561254,DCGS0067,ebay,-11,2011-07-26 11:52:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+561255,DCGS0066P,,-3,2011-07-26 11:52:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+561256,DCGS0003,ebay,-7,2011-07-26 11:53:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+561326,21294,damaged,-227,2011-07-26 13:50:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+561354,21792,CLASSIC FRENCH STYLE BASKET GREEN ,-8,2011-07-26 14:50:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+561362,84415A,PINK FLOCK SUEDE CUSHION COVER ,-11,2011-07-26 15:41:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+561364,84415B,BLUE FLOCK CUSHION COVER ,-4,2011-07-26 15:42:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+561475,84584,PINK GINGHAM CAT WITH SCARF,-3,2011-07-27 13:29:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+561476,21839,MUMMY MOUSE RED GINGHAM RIBBON,-36,2011-07-27 13:29:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+561478,20954,*USB Office Mirror Ball,-2,2011-07-27 13:32:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+561479,21594,Dr. Jam's Arouzer Stress Ball,-1,2011-07-27 13:32:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+561480,21858,,-12,2011-07-27 13:32:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+561481,20684,STRAWBERRY DREAM CHILDS UMBRELLA,-27,2011-07-27 13:38:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+561482,21432,,-2,2011-07-27 13:39:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+561484,77081,,-39,2011-07-27 13:41:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+561486,21765,,-2,2011-07-27 13:48:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+561487,22168,ORGANISER WOOD ANTIQUE WHITE ,-1,2011-07-27 13:51:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+561489,84905,PINK BUTTERFLY CUSHION COVER ,-2,2011-07-27 13:52:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+561491,21781,MA CAMPAGNE CUTLERY BOX,-2,2011-07-27 13:56:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+561492,22528,GARDENERS KNEELING PAD,-1,2011-07-27 13:57:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+561493,84761,,-11,2011-07-27 13:59:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+561494,18097A,PINK TALL PORCELAIN T-LIGHT HOLDER ,-23,2011-07-27 14:04:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+561496,17090D,VANILLA INCENSE 40 CONES IN TIN,-10,2011-07-27 14:08:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+561498,21610,,-14,2011-07-27 14:10:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+561500,85040B,SET/4 BLUE FLOWER CANDLES IN BOWL,-1,2011-07-27 14:12:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+561501,21278,VINTAGE KITCHEN PRINT PUDDINGS,-1,2011-07-27 14:13:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+561503,22194,BLACK DINER WALL CLOCK,-4,2011-07-27 14:14:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+561504,21361,LOVE LARGE WOOD LETTERS ,-7,2011-07-27 14:15:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+561505,84925D,LA PALMIERA WALL THERMOMETER,-12,2011-07-27 14:16:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+561506,72051S,BAG OF SILVER STONES,-1,2011-07-27 14:18:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+561523,20973,12 PENCIL SMALL TUBE WOODLAND,-45,2011-07-27 17:38:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+561524,16020C,CLEAR STATIONERY BOX SET ,-2,2011-07-27 17:39:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+561525,84466,TOP SECRET PEN SET,-1,2011-07-27 17:40:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+561526,21051,RIBBONS PURSE ,-2,2011-07-27 17:40:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+561527,20666,ECONOMY HOLIDAY PURSE,-5,2011-07-27 17:40:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+561536,84927E,FLOWERS TILE HOOK,-2,2011-07-28 09:58:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+561538,84927D,LA PALMIERA TILE HOOK,-1,2011-07-28 09:58:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+561539,79026B,"S/4 ICON COASTER,ELVIS LIVES",-1,2011-07-28 10:08:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+561540,84279B,CHERRY BLOSSOM DECORATIVE FLASK,-1,2011-07-28 10:08:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+561541,21658,GLASS  BEURRE DISH,-1,2011-07-28 10:09:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+561543,22202,MILK PAN PINK POLKADOT,-1,2011-07-28 10:10:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+561553,21392,RED POLKADOT PUDDING BOWL,-29,2011-07-28 10:20:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+561555,37477B,,-11,2011-07-28 10:21:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+561557,37477C,,-31,2011-07-28 10:21:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+561609,47589,CONGRATULATIONS BUNTING,-1,2011-07-28 12:24:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+561639,84799,SPRIG LAVENDER ARTIFICIAL FLOWER,-346,2011-07-28 14:58:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+561640,84802B,PURPLE ANEMONE ARTIFICIAL FLOWER,-125,2011-07-28 14:58:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+561663,22501,incorrectly put back into stock,-108,2011-07-28 16:40:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+561668,44091A,BLUE CRUSOE CHECK LAMPSHADE,-2,2011-07-28 17:03:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+561805,23284,DOORMAT KEEP CALM AND COME IN,-15,2011-07-29 14:42:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+561918,85127,SMALL SQUARE CUT GLASS CANDLESTICK,-6,2011-08-01 12:05:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+561919,85017B,ENVELOPE 50 BLOSSOM IMAGES,-188,2011-08-01 12:08:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+561920,84352,Damages/samples,-52,2011-08-01 12:10:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+561921,22044,CHRISTMAS CARD STACK OF PRESENTS,-240,2011-08-01 12:11:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+561924,22042,CHRISTMAS CARD SINGING ANGEL,-197,2011-08-01 12:27:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+561927,22740,?,-1060,2011-08-01 12:49:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+562164,21257,?,-94,2011-08-03 12:08:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+562212,21187,WHITE BELL HONEYCOMB PAPER GARLAND ,-97,2011-08-03 13:28:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+562278,21391,Sold as 1 on dotcom,-342,2011-08-04 10:27:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+562279,21391,FRENCH LAVENDER SCENT HEART,-26,2011-08-04 10:28:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+562352,21735,damages,-59,2011-08-04 13:12:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+562382,22927,?,-40,2011-08-04 15:36:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+562383,22523,?,-90,2011-08-04 15:37:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+562384,23175,REGENCY MILK JUG PINK ,-44,2011-08-04 15:41:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+562385,47559B,TEA TIME OVEN GLOVE,-84,2011-08-04 15:42:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+562386,84596L,BISCUITS SMALL BOWL LIGHT BLUE,-21,2011-08-04 15:43:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+562390,21246,RED RETROSPOT BIG BOWL,-92,2011-08-04 16:00:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+562391,22854,CREAM SWEETHEART EGG HOLDER,-40,2011-08-04 16:02:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+562463,85152,HAND OVER THE CHOCOLATE   SIGN ,-6,2011-08-05 11:30:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+562464,20701,PINK CAT FLORAL CUSHION COVER ,-24,2011-08-05 11:31:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+562544,84920,PINK FLOWER FABRIC PONY,-9,2011-08-05 15:46:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+562546,20694,?,-110,2011-08-05 15:46:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+562547,21918,SET 12 KIDS COLOUR  CHALK STICKS,-343,2011-08-05 15:49:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+562548,23084,RABBIT NIGHT LIGHT,-84,2011-08-05 16:00:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+562653,21359,RELAX LARGE WOOD LETTERS,-30,2011-08-08 13:35:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+562785,21033,JUMBO BAG CHARLIE AND LOLA TOYS,-455,2011-08-09 13:32:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+562855,84800M,MEDIUM WHITE/PINK ROSE ART FLOWER,-124,2011-08-10 10:16:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+563148,21033,JUMBO BAG CHARLIE AND LOLA TOYS,-37,2011-08-12 11:35:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+563244,22740,POLKADOT PEN,-36,2011-08-15 10:49:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+563453,21033,taig adjust no stock,-24,2011-08-16 14:34:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+563650,79163,BLACK CHAMPAGNE GLASS,-156,2011-08-18 10:43:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+563652,22461,SAVOY ART DECO CLOCK,-36,2011-08-18 10:43:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+563700,85106,CUT GLASS HEXAGON T-LIGHT HOLDER,-553,2011-08-18 13:55:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+563704,37342,POLKADOT COFFEE CUP & SAUCER PINK,-66,2011-08-18 14:03:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+563715,90120D,WHITE MURANO TWIST BRACELET,-18,2011-08-18 16:08:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+564667,23084,RABBIT NIGHT LIGHT,-400,2011-08-26 15:08:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+564914,85132C,damages,-109,2011-08-31 12:40:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+565042,85185B,PINK HORSE SOCK PUPPET,-27,2011-08-31 17:01:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+565045,21670,BLUE SPOT CERAMIC DRAWER KNOB,-115,2011-08-31 17:03:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+565046,22606,WOODEN SKITTLES GARDEN SET,-49,2011-08-31 17:04:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+565048,84976,RECTANGULAR SHAPED MIRROR,-66,2011-08-31 17:06:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+565049,21907,I'M ON HOLIDAY METAL SIGN,-77,2011-08-31 17:09:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+565052,21179,NO JUNK MAIL METAL SIGN,-60,2011-08-31 17:11:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+565055,21172,PARTY METAL SIGN ,-10,2011-08-31 17:11:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+565057,82551,LAUNDRY 15C METAL SIGN,-110,2011-08-31 17:12:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+565060,21165,BEWARE OF THE CAT METAL SIGN ,-46,2011-08-31 17:15:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+565063,21175,GIN + TONIC DIET METAL SIGN,-18,2011-08-31 17:15:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+565069,20665,RED RETROSPOT PURSE ,-49,2011-08-31 17:18:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+565071,84754,S/15 SILVER GLASS BAUBLES IN BAG,-242,2011-08-31 17:21:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+565072,21820,GLITTER HEART GARLAND WITH BELLS ,-210,2011-08-31 17:22:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+565275,90209C,PINK ENAMEL+GLASS HAIR COMB,-72,2011-09-02 11:08:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+565296,84929,code mix up? 84930,-967,2011-09-02 12:04:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+565297,84877D,?,-203,2011-09-02 12:06:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+565302,21682,?display?,-156,2011-09-02 12:16:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+565304,16259,PIECE OF CAMO STATIONERY SET,-3167,2011-09-02 12:18:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+565306,21830,sold as 1,-252,2011-09-02 12:20:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+565307,21830,?,-443,2011-09-02 12:20:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+565308,21829,sold as 1,-432,2011-09-02 12:22:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+565310,21829,?missing,-1897,2011-09-02 12:26:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+565314,84660C,PINK STITCHED WALL CLOCK,-21,2011-09-02 12:43:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+565370,82494L,crushed ctn,-33,2011-09-02 15:04:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+565371,82483,crushed,-13,2011-09-02 15:04:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+565385,22435,?missing,-434,2011-09-02 15:46:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+565389,47343A,FUSCHIA FLOWER PURSE WITH BEADS,-16,2011-09-02 16:19:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+565935,23064,Crushed,-8,2011-09-08 10:46:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+565938,23066,SMALL DECO JEWELLERY STAND,-13,2011-09-08 10:54:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+566066,15060B,FAIRY CAKE DESIGN UMBRELLA,-52,2011-09-08 16:36:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+566067,20686,DOLLY MIXTURE CHILDREN'S UMBRELLA,-95,2011-09-08 16:36:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+566068,22268,DECORATION SITTING BUNNY,-86,2011-09-08 16:37:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+566121,23306,SET OF 36 DOILIES PANTRY DESIGN,-682,2011-09-09 10:56:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+566122,23084,temp adjustment,-484,2011-09-09 10:57:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+566449,20856,??,-140,2011-09-12 16:07:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+566573,22823,test,-22,2011-09-13 13:10:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+566710,16207B,PINK HEART RED HANDBAG,-4,2011-09-14 12:03:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+566711,21578,WOODLAND DESIGN  COTTON TOTE BAG,-31,2011-09-14 12:03:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+566712,22030,??,-635,2011-09-14 12:04:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+566763,84708B,PINK JEWELLED PHOTO FRAME ,-5,2011-09-14 17:48:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+566764,23065,LARGE DECO JEWELLERY STAND,-13,2011-09-14 17:49:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+566765,22244,3 HOOK HANGER MAGIC GARDEN,-9,2011-09-14 17:50:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+566766,21311,SET/4 BIRD MIRROR MAGNETS ,-117,2011-09-14 17:51:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+566767,20977,36 PENCILS TUBE WOODLAND,-188,2011-09-14 17:52:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+566768,16045,POPART WOODEN PENCILS ASST,-3667,2011-09-14 17:53:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+566977,48173C,DOORMAT BLACK FLOCK ,-54,2011-09-16 09:47:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+567057,84725,FREESTYLE CANVAS ART PICTURE,-8,2011-09-16 11:39:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+567058,22453,MEASURING TAPE BABUSHKA BLUE,-12,2011-09-16 11:40:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+567059,22452,MEASURING TAPE BABUSHKA PINK,-63,2011-09-16 11:41:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+567060,22445,PENCIL CASE LIFE IS BEAUTIFUL,-62,2011-09-16 11:41:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+567061,84877B,GREEN ROUND COMPACT MIRROR,-27,2011-09-16 11:42:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+567063,23135,SMALL ZINC HEART WALL ORGANISER,-27,2011-09-16 11:50:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+567113,85215,Damaged,-29,2011-09-16 13:39:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+567125,21246,damaged,-2,2011-09-16 13:49:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+567127,85230E,Damaged,-48,2011-09-16 14:01:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+567132,21830,OOPS ! adjustment,-384,2011-09-16 14:14:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+567143,21179,damaged,-14,2011-09-16 15:02:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+567149,35607B,thrown away,-9,2011-09-16 15:29:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+567150,35817P,thrown away,-44,2011-09-16 15:29:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+567363,23028,DRAWER KNOB CRACKLE GLAZE BLUE,-49,2011-09-19 16:58:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+567364,22925,BLUE GIANT GARDEN THERMOMETER,-20,2011-09-19 16:58:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+567366,21174,POTTERING IN THE SHED METAL SIGN,-138,2011-09-19 16:59:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+567367,17012A,ORIGAMI VANILLA INCENSE/CANDLE SET ,-86,2011-09-19 17:15:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+567629,40016,?,-752,2011-09-21 13:21:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+567645,21447,12 IVORY ROSE PEG PLACE SETTINGS,-53,2011-09-21 14:27:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+567693,85199L,?,-250,2011-09-21 17:26:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+567694,22665,RECIPE BOX BLUE SKETCHBOOK DESIGN,-24,2011-09-21 17:30:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+567695,22688,DOORMAT PEACE ON EARTH BLUE,-42,2011-09-21 17:31:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+567696,23091,ZINC HERB GARDEN CONTAINER,-15,2011-09-21 17:32:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+567719,20980,36 PENCILS TUBE POSY,-7,2011-09-22 10:32:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+567861,35597A,DUSTY PINK CHRISTMAS TREE 30CM,-14,2011-09-22 14:01:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+567862,35591T,TURQUOISE CHRISTMAS TREE ,-4,2011-09-22 14:02:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+567918,79163,damaged,-1,2011-09-22 17:20:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+567921,21089,damaged,-7,2011-09-22 17:24:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+567923,37343,damaged,-2,2011-09-22 17:24:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+567925,84876D,damaged,-2,2011-09-22 17:26:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+567927,21654,Damaged,-3,2011-09-22 17:28:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+567931,84563B,damaged,-11,2011-09-22 17:38:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+567932,85213,MINI  ZINC GARDEN DECORATIONS ,-12,2011-09-22 17:39:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+567933,84422,Dagamed,-30,2011-09-22 17:49:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+568052,90209C,PINK ENAMEL+GLASS HAIR COMB,-3,2011-09-23 12:42:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+568079,85197,SET OF 12 MINI BUNNIES IN A BUCKET,-1,2011-09-23 14:35:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+568080,44236,PINK/PURPLE CIRCLE CURTAIN,-2,2011-09-23 14:35:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+568081,84663A,GRASS HOPPER WOODEN WALL CLOCK ,-9,2011-09-23 14:36:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+568084,84927A,WAKE UP COCKEREL TILE HOOK,-7,2011-09-23 14:38:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+568087,85049D,BRIGHT BLUES RIBBONS ,-8,2011-09-23 14:40:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+568088,21641,ASSORTED TUTTI FRUTTI KEYRING BALL,-49,2011-09-23 14:40:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+568089,22245,"HOOK, 1 HANGER ,MAGIC GARDEN",-37,2011-09-23 14:41:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+568090,20793,BLUE TILED TRAY,-5,2011-09-23 14:41:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+568091,85211,S/4 GROOVY CAT MAGNETS,-3,2011-09-23 14:41:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+568093,20773,BLUE PAISLEY NOTEBOOK,-9,2011-09-23 14:42:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+568233,21586,KINGS CHOICE GIANT TUBE MATCHES,-147,2011-09-26 11:37:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+568302,20700,?,-121,2011-09-26 12:46:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+568371,22687,DOORMAT CHRISTMAS VILLAGE,-41,2011-09-26 16:48:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+568372,90082D,DIAMANTE BOW BROOCH BLACK COLOUR,-19,2011-09-26 16:54:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+568401,21394,damages,-35,2011-09-27 10:30:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+568403,84905,PINK BUTTERFLY CUSHION COVER ,-3,2011-09-27 10:35:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+568404,22497,SET OF 2 TINS VINTAGE BATHROOM ,-17,2011-09-27 10:36:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+568405,22893,MINI CAKE STAND T-LIGHT HOLDER,-42,2011-09-27 10:36:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+568406,18094C,WHITE AND BLUE CERAMIC OIL BURNER,-67,2011-09-27 10:37:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+568407,84660A,WHITE STITCHED WALL CLOCK,-8,2011-09-27 10:38:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+568442,37327,damages,-131,2011-09-27 11:31:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+568543,84920,PINK FLOWER FABRIC PONY,-21,2011-09-27 14:33:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+568545,22548,HEADS AND TAILS SPORTING FUN,-70,2011-09-27 14:34:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+568546,22409,MONEY BOX BISCUITS DESIGN,-20,2011-09-27 14:35:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+568724,84816,damages,-21,2011-09-28 16:27:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+568725,79000,MOROCCAN TEA GLASS,-209,2011-09-28 16:28:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+569098,21098,damages?,-231,2011-09-30 12:09:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+569102,21098,CHRISTMAS TOILET ROLL,-129,2011-09-30 12:25:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+569121,21244,BLUE POLKADOT PLATE ,-38,2011-09-30 13:03:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+569131,22927,damaged,-5,2011-09-30 13:49:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+569256,20774,damaged,-14,2011-10-03 11:15:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+569335,84660A,damaged,-15,2011-10-03 13:57:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+569341,82600,historic computer difference?....se,-458,2011-10-03 14:19:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+569347,85086A,CANDY SPOT HEART DECORATION,-6,2011-10-03 14:38:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+569376,85106,CUT GLASS HEXAGON T-LIGHT HOLDER,-9,2011-10-03 16:29:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+569377,22784,LANTERN CREAM GAZEBO ,-14,2011-10-03 16:30:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+569378,72799F,IVORY PILLAR CANDLE GOLD FLOCK,-5,2011-10-03 16:31:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+569379,16015,MEDIUM CHINESE STYLE SCISSOR,-69,2011-10-03 16:33:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+569380,21809,CHRISTMAS HANGING TREE WITH BELL,-140,2011-10-03 16:40:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+569391,84625C,BLUE NEW BAROQUE CANDLESTICK CANDLE,-32,2011-10-03 17:13:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+569392,47504K,ENGLISH ROSE GARDEN SECATEURS,-275,2011-10-03 17:15:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+569393,23152,IVORY SWEETHEART WIRE LETTER RACK ,-23,2011-10-03 17:15:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+569394,21163,DO NOT TOUCH MY STUFF DOOR HANGER ,-70,2011-10-03 17:16:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+569464,23268,Incorrect stock entry.,-1440,2011-10-04 11:40:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+569465,23269,incorrect stock entry.,-1440,2011-10-04 11:41:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+569466,23270,incorrect stock entry.,-2880,2011-10-04 11:42:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+569817,21870,I CAN ONLY PLEASE ONE PERSON MUG,-26,2011-10-06 12:09:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+569831,20713,wrongly coded-23343,-800,2011-10-06 12:38:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+569854,35954,counted,-430,2011-10-06 14:26:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+569855,23412,?,-30,2011-10-06 14:27:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+569874,90180A,stock check,-32,2011-10-06 15:06:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+569875,90195A,check,-45,2011-10-06 15:07:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+569876,90210D,check,-28,2011-10-06 15:08:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+569877,90210C,RED   ACRYLIC FACETED BANGLE,-10,2011-10-06 15:09:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+569878,90057,crushed boxes,-380,2011-10-06 15:12:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+569879,90012B,check,-5,2011-10-06 15:13:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+569880,90012A,stock check,-18,2011-10-06 15:14:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+569881,90014C,,-8,2011-10-06 15:14:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+569882,90014B,GOLD M PEARL  ORBIT NECKLACE,-1,2011-10-06 15:15:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+569883,90014A,check,-12,2011-10-06 15:16:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+569884,90164B,WHITE  ROSEBUD PEARL BRACELET,-14,2011-10-06 15:16:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+569885,90164A,PINK ROSEBUD PEARL BRACELET,-15,2011-10-06 15:17:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+569886,90191,??,-60,2011-10-06 15:24:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+570013,21395,BLUE POLKADOT BEAKER ,-38,2011-10-07 09:55:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+570110,22570,?,-74,2011-10-07 12:27:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+570112,22569,?,-84,2011-10-07 12:29:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+570185,21090,WET/MOULDY,-192,2011-10-07 14:56:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+570193,22449,can't find,-125,2011-10-07 15:32:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+570259,22336,DOVE DECORATION PAINTED ZINC ,-114,2011-10-10 09:59:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+570260,35933,PINK STOCKING CHRISTMAS DECORATION,-34,2011-10-10 10:00:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+570262,35954,SMALL FOLKART STAR CHRISTMAS DEC,-80,2011-10-10 10:00:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+570264,21288,STRIPEY CHOCOLATE NESTING BOXES,-22,2011-10-10 10:03:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+570294,84249A,damaged,-25,2011-10-10 12:00:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+570403,47574A,check,-61,2011-10-10 12:45:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+570440,21424,damages,-40,2011-10-10 14:31:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+570595,21823,check,-94,2011-10-11 11:47:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+570596,21803,check,-38,2011-10-11 11:48:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+570599,84596G,??,-365,2011-10-11 12:00:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+570691,85231G,check,-110,2011-10-11 16:44:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+570711,21622,damages,-45,2011-10-12 10:14:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+570712,22121,?,-90,2011-10-12 10:15:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+570873,23322,mouldy,-40,2011-10-12 16:41:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+570874,23020,smashed,-4,2011-10-12 16:42:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+571010,22848,BREAD BIN DINER STYLE PINK,-16,2011-10-13 12:13:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+571011,21078,SET/20 STRAWBERRY PAPER NAPKINS ,-207,2011-10-13 12:13:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+571012,21402,RED  EGG  SPOON,-147,2011-10-13 12:15:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+571013,23306,SET OF 36 DOILIES PANTRY DESIGN,-104,2011-10-13 12:16:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+571024,22812,?,-270,2011-10-13 12:18:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+571027,72816,SET/3 CHRISTMAS DECOUPAGE CANDLES,-36,2011-10-13 12:19:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+571037,20669,RED HEART LUGGAGE TAG,-25,2011-10-13 12:58:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+571112,22637,damages,-65,2011-10-13 17:36:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+571113,21407,BROWN CHECK CAT DOORSTOP ,-19,2011-10-13 17:37:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+571114,23159,SET OF 5 PANCAKE DAY MAGNETS,-99,2011-10-13 17:40:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+571115,82567,"AIRLINE LOUNGE,METAL SIGN",-73,2011-10-13 17:40:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+571116,23131,?,-49,2011-10-13 17:46:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+571124,72802A,Wet pallet-thrown away,-306,2011-10-14 09:36:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+571126,72802A,?,-50,2011-10-14 09:53:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+571130,72802C,check,-37,2011-10-14 10:05:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+571131,72802B,check,-51,2011-10-14 10:13:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+571254,23427,damaged,-2,2011-10-14 17:07:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+571458,21761,damaged,-2,2011-10-17 14:02:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+571459,20839,damages,-80,2011-10-17 14:03:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+571686,22149,damages,-40,2011-10-18 14:22:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+571687,22149,check,-46,2011-10-18 14:23:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+571689,85135B,BLUE DRAGONFLY HELICOPTER,-27,2011-10-18 14:28:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+571723,85211,S/4 GROOVY CAT MAGNETS,-1,2011-10-18 17:30:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+571915,21627,check,-32,2011-10-19 15:34:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+572341,85036A,GARDENIA 1 WICK MORRIS BOXED CANDLE,-82,2011-10-24 10:36:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+572468,72803A,damages,-160,2011-10-24 13:30:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+572477,20665,adjustment,-15,2011-10-24 13:39:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+572480,22049,damaged,-100,2011-10-24 13:44:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+572514,20774,GREEN FERN NOTEBOOK,-4,2011-10-24 14:36:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+572516,22336,damaged,-71,2011-10-24 14:45:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+572527,20984,damaged,-46,2011-10-24 15:35:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+572533,84877D,BLUE ROUND COMPACT MIRROR,-1,2011-10-24 16:06:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+572534,35597D,PINK/WHITE CHRISTMAS TREE 30CM,-2,2011-10-24 16:07:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+572536,21294,ETCHED GLASS COASTER,-8,2011-10-24 16:08:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+572543,22570,FELTCRAFT CUSHION RABBIT,-32,2011-10-24 16:24:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+572548,23343,20713 wrongly marked,-200,2011-10-24 17:01:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+572557,22427,damages,-29,2011-10-24 17:44:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+572564,40016,CHINESE DRAGON PAPER LANTERNS,-108,2011-10-25 09:56:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+572615,23595,re-adjustment,-5,2011-10-25 11:39:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+572684,23029,damages,-20,2011-10-25 14:00:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+572685,23032,damages,-60,2011-10-25 14:01:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+572686,23118,Breakages,-30,2011-10-25 14:03:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+572687,20840,damages,-30,2011-10-25 14:05:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+572689,84969,check,-50,2011-10-25 14:13:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+572690,21539,damages?,-111,2011-10-25 14:14:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+572691,22426,check,-15,2011-10-25 14:15:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+572692,21071,check,-82,2011-10-25 14:16:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+572693,35810A,check,-78,2011-10-25 14:20:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+572699,72818,CHRISTMAS DECOUPAGE CANDLE,-48,2011-10-25 14:26:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+572701,85078,missing,-840,2011-10-25 14:31:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+572702,37479P,??,-184,2011-10-25 14:33:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+572748,21824,check,-103,2011-10-25 16:50:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+572749,22572,??,-335,2011-10-25 16:52:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+572759,37468,HARDMAN MUG 3 ASSORTED,-2,2011-10-25 18:45:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+572891,23343,20713,-400,2011-10-26 14:14:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+572898,22180,RETROSPOT LAMP,-15,2011-10-26 14:50:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+572919,72802C,check,-17,2011-10-26 16:49:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+572996,23462,damages,-34,2011-10-27 11:22:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+573115,23343,wrongly coded 20713,-1000,2011-10-27 15:37:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+573118,85032D,damaged,-1,2011-10-27 16:19:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+573120,72816,SET/3 CHRISTMAS DECOUPAGE CANDLES,-1,2011-10-27 16:21:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+573254,85135C,Damages,-49,2011-10-28 12:18:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+573258,85136C,damages,-36,2011-10-28 12:19:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+573259,85136A,damages,-77,2011-10-28 12:20:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+573317,21804,WHITE CHRISTMAS GARLAND STARS TREES,-84,2011-10-28 18:09:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+573318,84944,SET OF 6 KASHMIR FOLKART BAUBLES,-47,2011-10-28 18:11:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+573463,17012B,check,-70,2011-10-31 10:56:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+573482,21181,check,-54,2011-10-31 11:20:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+573487,23400,check,-19,2011-10-31 11:46:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+573489,85035B,check,-36,2011-10-31 11:48:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+573490,85035A,CHECK,-59,2011-10-31 11:55:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+573491,21618,CHECK,-54,2011-10-31 11:56:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+573493,21619,check,-94,2011-10-31 11:57:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+573494,47503H,check,-24,2011-10-31 11:57:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+573497,21642,check,-138,2011-10-31 12:00:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+573498,21636,check,-22,2011-10-31 12:00:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+573499,21192,check,-164,2011-10-31 12:01:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+573503,22595,check,-80,2011-10-31 12:03:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+573505,85208,check,-22,2011-10-31 12:09:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+573547,84818,damages,-70,2011-10-31 13:21:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+573590,79323G,"Unsaleable, destroyed.",-657,2011-10-31 15:15:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+573591,79323B,"Unsaleable, destroyed.",-1671,2011-10-31 15:15:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+573592,79323GR,"Unsaleable, destroyed.",-1158,2011-10-31 15:16:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+573593,79323LP,"Unsaleable, destroyed.",-2618,2011-10-31 15:16:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+573594,79323P,"Unsaleable, destroyed.",-2003,2011-10-31 15:16:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+573595,79323S,"Unsaleable, destroyed.",-674,2011-10-31 15:17:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+573596,79323W,"Unsaleable, destroyed.",-4830,2011-10-31 15:17:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+573597,79341,"Unsaleable, destroyed.",-905,2011-10-31 15:18:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+573598,79342B,"Unsaleable, destroyed.",-1128,2011-10-31 15:18:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+573670,22176,check,-28,2011-10-31 17:02:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+573672,22522,check,-126,2011-10-31 17:04:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+573726,72817,check,-67,2011-10-31 17:18:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+573734,72818,check,-26,2011-10-31 17:19:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+573752,46000S,dotcom sales,-90,2011-11-01 09:34:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+573815,20902,check,-3,2011-11-01 11:31:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+573816,20898,check,-10,2011-11-01 11:32:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+573919,21352,check,-23,2011-11-01 17:39:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+574094,22147,check,-80,2011-11-03 09:46:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+574123,22652,check,-111,2011-11-03 10:55:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+574171,21818,check,-130,2011-11-03 11:45:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+574173,35923,check,-42,2011-11-03 11:46:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+574176,85054,check,-39,2011-11-03 11:48:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+574198,21159,damaged,-40,2011-11-03 12:00:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+574257,72818,CHRISTMAS DECOUPAGE CANDLE,-3,2011-11-03 13:46:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+574516,22162,HEART GARLAND RUSTIC PADDED,-24,2011-11-04 13:38:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+574520,21181,PLEASE ONE PERSON METAL SIGN,-6,2011-11-04 13:44:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+574577,21519,check,-80,2011-11-04 17:09:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+574578,40001,check,-240,2011-11-04 17:09:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+574579,72802B,check,-203,2011-11-04 17:14:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+574580,20751,check,-35,2011-11-04 17:44:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+574581,23187,check,-62,2011-11-04 17:45:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+574582,84279P,check,-104,2011-11-04 17:46:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+574583,22892,check,-62,2011-11-04 17:46:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+574757,72802C,damages,-54,2011-11-07 10:08:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+574816,85036C,damages wax,-1560,2011-11-07 10:37:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+574822,85036B,damages wax,-1284,2011-11-07 10:38:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+574905,85017B,ENVELOPE 50 BLOSSOM IMAGES,-22,2011-11-07 15:28:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+574906,85034A,damaged,-81,2011-11-07 15:30:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+575048,84665,water damaged,-15,2011-11-08 12:12:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+575287,84508A,check,-39,2011-11-09 12:15:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+575386,20977,36 PENCILS TUBE WOODLAND,-16,2011-11-09 15:22:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+575503,35933,PINK STOCKING CHRISTMAS DECORATION,-2,2011-11-10 10:19:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+575613,23118,check,-6,2011-11-10 12:47:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+575614,22121,check,-10,2011-11-10 12:48:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+575615,82582,??,-130,2011-11-10 12:51:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+575617,21014,check,-90,2011-11-10 12:53:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+575625,35972,check,-3,2011-11-10 13:20:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+575704,21843,smashed,-63,2011-11-10 17:00:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+575714,85125,check,-64,2011-11-10 17:55:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+575715,72802B,check,-36,2011-11-10 17:58:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+575716,72802C,check,-21,2011-11-10 18:00:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+575717,85175,check,-42,2011-11-10 18:02:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+575720,21817,check,-8,2011-11-10 18:09:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+575721,22804,Wrongly mrked had 85123a in box,-256,2011-11-10 18:19:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+575722,85123A,wrongly marked carton 22804,-256,2011-11-10 18:20:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+575907,22268,check,-10,2011-11-11 15:52:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+575909,20711,check,-220,2011-11-11 16:02:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+575912,22943,check,-7,2011-11-11 16:20:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+576185,22575,missing?,-130,2011-11-14 11:25:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+576193,22827,RUSTIC  SEVENTEEN DRAWER SIDEBOARD,-8,2011-11-14 11:57:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+576250,71279,damages,-74,2011-11-14 13:50:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+576366,23072,damages,-50,2011-11-14 18:30:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+576367,23071,damages,-65,2011-11-14 18:31:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+576368,21135,wet rusty,-864,2011-11-14 18:33:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+576369,21135,wet rusty,-288,2011-11-14 18:35:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+576407,47590B,check,-57,2011-11-15 11:18:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+576410,71038,check,-16,2011-11-15 11:20:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+576411,85111,check,-117,2011-11-15 11:20:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+576413,17012C,check,-22,2011-11-15 11:21:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+576415,17012B,ORIGAMI JASMINE INCENSE/CANDLE SET,-2,2011-11-15 11:22:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+576419,85036B,check,-23,2011-11-15 11:23:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+576424,85036C,check,-4,2011-11-15 11:24:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+576436,22943,check,-26,2011-11-15 11:27:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+576473,21868,POTTING SHED TEA MUG,-108,2011-11-15 11:40:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+576566,21830,ASSORTED CREEPY CRAWLIES,-186,2011-11-15 13:39:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+576569,47504K,ENGLISH ROSE GARDEN SECATEURS,-21,2011-11-15 13:45:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+576578,22412,METAL SIGN NEIGHBOURHOOD WITCH ,-37,2011-11-15 14:05:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+576580,22034,ROBIN CHRISTMAS CARD,-5,2011-11-15 14:15:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+576674,21823,damaged,-6,2011-11-16 12:00:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+576762,21744,check,-21,2011-11-16 13:08:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+576763,23035,check,-64,2011-11-16 13:09:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+576764,16008,check,-1510,2011-11-16 13:10:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+576765,22219,???lost,-550,2011-11-16 13:11:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+576767,22339,check,-60,2011-11-16 13:12:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+576773,22181,check,-92,2011-11-16 13:21:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+576776,21811,check,-240,2011-11-16 13:22:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+576835,21618,4 WILDFLOWER BOTANICAL CANDLES,-2,2011-11-16 15:10:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+576839,35818B,adjustment,-22,2011-11-16 15:21:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+576843,10133,damaged,-82,2011-11-16 15:32:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+577111,22587,check,-41,2011-11-17 17:55:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+577112,22586,check,-30,2011-11-17 17:55:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+577113,22271,check,-43,2011-11-17 17:58:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+577114,21786,check,-209,2011-11-17 17:59:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+577115,85035C,check,-24,2011-11-17 18:02:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+577116,21165,check,-28,2011-11-17 18:04:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+577118,22286,check,-47,2011-11-17 18:05:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+577119,22778,check,-10,2011-11-17 18:08:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+577120,20752,check,-10,2011-11-17 18:09:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+577122,23348,sold with wrong barcode,-57,2011-11-17 18:33:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+577123,23288,check,-63,2011-11-17 18:34:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+577124,22759,check,-327,2011-11-17 18:41:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+577304,20956,check,-152,2011-11-18 13:04:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+577305,22946,check,-21,2011-11-18 13:06:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+577307,16169E,check,-313,2011-11-18 13:06:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+577787,23055,rusty thrown away,-398,2011-11-21 16:28:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+577788,23056,rusty throw away,-210,2011-11-21 16:28:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+577789,23057,rusty throw away,-280,2011-11-21 16:28:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+577836,21888,check,-57,2011-11-22 10:26:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+577999,21018,damaged,-63,2011-11-22 12:29:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+578095,23397,damaged,-9,2011-11-22 17:25:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+578145,22579,dotcom,-40,2011-11-23 11:07:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+578245,22568,?? missing,-170,2011-11-23 12:37:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+578327,72807A,wet pallet,-504,2011-11-23 17:55:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+578328,72807B,wet pallet,-696,2011-11-23 17:55:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+578329,72807C,wet pallet,-408,2011-11-23 17:56:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+578426,23131,MISTLETOE HEART WREATH CREAM,-12,2011-11-24 12:03:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+578431,22579,WOODEN TREE CHRISTMAS SCANDINAVIAN,-18,2011-11-24 12:15:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+578473,72807B,damages,-101,2011-11-24 12:43:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+578474,72807A,damages,-56,2011-11-24 12:44:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+578475,72807C,damages,-149,2011-11-24 12:44:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+578476,72807B,????missing,-124,2011-11-24 12:45:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+578477,72807A,???missing,-224,2011-11-24 12:45:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+578478,72807C,???missing,-428,2011-11-24 12:45:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+578524,22810,check,-25,2011-11-24 14:20:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+578525,22152,check,-179,2011-11-24 14:21:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+578527,21819,check,-14,2011-11-24 14:24:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+578528,22601,check,-20,2011-11-24 14:24:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+578529,22087,PAPER BUNTING WHITE LACE,-23,2011-11-24 14:29:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+578733,21643,damaged,-9,2011-11-25 11:32:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+578738,21638,ASSORTED TUTTI FRUTTI NOTEBOOK,-33,2011-11-25 11:33:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+578837,35833P,check,-24,2011-11-25 15:51:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+578838,21591,check,-267,2011-11-25 15:52:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+578839,22959,check,-175,2011-11-25 15:52:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+578840,22142,check,-70,2011-11-25 15:54:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+579429,20711,lost in space,-98,2011-11-29 13:04:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+579460,21110,LARGE CAKE TOWEL PINK SPOTS,-151,2011-11-29 14:39:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+579681,21615,check,-26,2011-11-30 13:33:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+579682,85172,check,-145,2011-11-30 13:33:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+579683,21868,check,-28,2011-11-30 13:35:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+579688,21116,OWL DOORSTOP,-33,2011-11-30 13:51:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+579691,47503A,ASS FLORAL PRINT MULTI SCREWDRIVER,-5,2011-11-30 14:05:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+579731,35648,check,-46,2011-11-30 14:23:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+579732,35648,check,-10,2011-11-30 14:24:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+579733,84581,check,-41,2011-11-30 14:24:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+579734,84859C,wet?,-153,2011-11-30 14:25:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+579735,21793,check,-40,2011-11-30 14:25:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+579742,85204,lost??,-1131,2011-11-30 14:34:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+579743,21810,check,-135,2011-11-30 14:36:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+579745,22043,check,-40,2011-11-30 14:39:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+579755,84912B,damaged,-14,2011-11-30 14:54:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+580087,84341B,SMALL PINK MAGIC CHRISTMAS TREE,-2,2011-12-01 14:27:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+580218,22577,check,-300,2011-12-02 12:12:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+580359,20775,DAISY NOTEBOOK ,-35,2011-12-02 16:11:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+580377,84609,damages,-29,2011-12-02 17:52:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+580378,22792,damages,-73,2011-12-02 17:56:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+580379,72225C,LAVENDER SCENT CAKE CANDLE,-144,2011-12-02 17:57:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+580380,21620,check,-20,2011-12-02 17:58:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+580381,21758,VINTAGE SHELLS PRINT,-9,2011-12-02 17:58:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+580382,16045,check,-900,2011-12-02 17:59:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+580383,20652,check,-37,2011-12-02 17:59:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+580546,23406,CHECK,-21,2011-12-05 09:27:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+580547,21201,???,-390,2011-12-05 09:29:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+580561,22043,dotcom,-9,2011-12-05 10:25:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+580990,21109,wet,-48,2011-12-06 16:54:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+580991,22481,wet boxes,-288,2011-12-06 16:55:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+581190,84801A,check,-102,2011-12-07 16:55:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+581198,22025,check,-30,2011-12-07 18:26:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+581199,84581,DOG TOY WITH PINK CROCHET SKIRT,-2,2011-12-07 18:26:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+581200,84508C,check,-21,2011-12-07 18:27:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+581201,22217,damages?,-155,2011-12-07 18:30:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+581204,85104,????damages????,-355,2011-12-07 18:32:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+581205,20893,damages,-55,2011-12-07 18:32:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+581206,21693,mixed up,-87,2011-12-07 18:34:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+581207,21688,mixed up,-337,2011-12-07 18:34:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+581208,72801C,check,-10,2011-12-07 18:35:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+581210,23395,check,-26,2011-12-07 18:36:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+581212,22578,lost,-1050,2011-12-07 18:38:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+581213,22576,check,-30,2011-12-07 18:38:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+581226,23090,missing,-338,2011-12-08 09:56:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
+581422,23169,smashed,-235,2011-12-08 15:24:00,0.0,,United Kingdom,False,True,True,False,Нулевая цена
